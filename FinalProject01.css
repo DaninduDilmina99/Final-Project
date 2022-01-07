@@ -1,11 +1,11 @@
 .main h1{
     font-size: large;
-    color: aqua;
+    color: rgb(14, 85, 85);
     font-weight: bold;
 }
 p{
     font-family: 'Courier New', Courier, monospace;
-    font-size: 12px;
+    font-size: 15px;
     font-weight: bold;
     text-decoration: underline;
 }

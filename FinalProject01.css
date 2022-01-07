@@ -3,3 +3,9 @@
     color: aqua;
     font-weight: bold;
 }
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: underline;
+}

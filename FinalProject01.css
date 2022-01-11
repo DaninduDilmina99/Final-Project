@@ -8,6 +8,10 @@
     color: black;
     font-weight: none;
 }
+.bgimage img{
+    height: auto;
+    width: auto;
+}
 p{
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;

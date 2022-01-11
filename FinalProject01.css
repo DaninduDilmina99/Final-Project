@@ -1,7 +1,12 @@
-.main h1{
-    font-size: xx-large;
-    color: rgb(37, 94, 65);
-    font-weight: italic;
+.titlesinhala h1{
+    font-size: 500%;
+    color: black;
+    font-weight: bold;
+}
+.titleenglish h1{
+    font-size: 300%;
+    color: black;
+    font-weight: none;
 }
 p{
     font-family: 'Courier New', Courier, monospace;

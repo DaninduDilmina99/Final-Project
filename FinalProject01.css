@@ -8,9 +8,12 @@
     color: black;
     font-weight: none;
 }
-.bgimage img{
-    height: auto;
-    width: auto;
+.bgimage {
+    height: 100%;
+    width: 100vh;
+    background-image: linear-gradient(rgb(0,0,0,0.75),rgb(0,0,0,0.75)), url(backgroundimage.jpg);
+    background-size: cover;
+    background-position: center;
 }
 p{
     font-family: 'Courier New', Courier, monospace;

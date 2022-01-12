@@ -11,7 +11,7 @@
 .bgimage {
     height: 100%;
     width: 100vh;
-    background-image: linear-gradient(rgb(0,0,0,0.75),rgb(0,0,0,0.75)), url(backgroundimage.jpg);
+    background-image: linear-gradient(rgb(0,0,0,0.75),rgb(0,0,0,0.75)), url(https://i.postimg.cc/d1WpRmct/backgroundimage.jpg);
     background-size: cover;
     background-position: center;
 }

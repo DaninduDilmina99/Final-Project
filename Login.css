@@ -17,6 +17,16 @@ input {
   background-color: #fff;
   min-height: 100vh;
   overflow: hidden;
+  
+}
+.logo img {
+  width: 300px;
+  height: 150px;
+  transform: translate(-50%, 100%);
+  float: right;
+  margin-bottom: 90%;
+  border-radius: 50%;
+  padding-left: 100px;
 }
 
 .forms-container {
@@ -54,10 +64,13 @@ form {
 form.sign-up-form {
   opacity: 0;
   z-index: 1;
+  margin-bottom:190px;
 }
 
 form.sign-in-form {
   z-index: 2;
+  margin-bottom:210px;
+  
 }
 
 .title {
@@ -399,4 +412,6 @@ form.sign-in-form {
     bottom: 28%;
     left: 50%;
   }
+  
+
 }

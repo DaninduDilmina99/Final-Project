@@ -9,3 +9,60 @@
     text-transform: capitalize;
     transition: .2s linear;
 }
+
+@mixin grid($val){
+    display: grid;
+    grid-template-coloms: repeat(auto-fit,minmax($val,1fr));
+    gap:1.5rem;
+}
+
+html{
+    font-size: 62.5%;
+    overflow: hidden;
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+
+}
+
+html::-webkit-scrollbar{
+    width: 1rem;
+}
+html::-webkit-scrollbar-track{
+    background: white;
+}
+html::-webkit-scrollbar-thumb{
+    background: black;
+}
+
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 2rem 9%;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    margin-right: auto;
+    font-size: 2.5rem;
+    font-weight: bolder;
+    color: black;
+
+}
+i{
+    color: green;
+}
+
+.navbar a{
+    margin-left: 2rem;
+    font-size: 1.7rem;
+    color: black;
+    
+}
+
+.navbar a:hover{
+    color: green;
+}

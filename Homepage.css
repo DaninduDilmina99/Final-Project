@@ -67,6 +67,12 @@ i{
     color: green;
 }
 
+#nav-close{
+    font-size: 5rem;
+    cursor: pointer;
+    color: black;
+    display: none;
+}
 .icon{
     font-size: 2.5rem;
     margin-left: 2.5rem;
@@ -128,6 +134,10 @@ i{
     .navbar a{
         margin: 1rem;
         font-size: 3rem;
+    }
+
+    #nav-close{
+        
     }
 }
 @media(max-width:450px){

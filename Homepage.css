@@ -66,3 +66,72 @@ i{
 .navbar a:hover{
     color: green;
 }
+
+.icon{
+    font-size: 2.5rem;
+    margin-left: 2.5rem;
+    cursor: pointer;
+    color: black;
+}
+
+.icon:hover{
+    color: green;
+}
+
+#menu-btn{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* media queries */
+@media(max-width:1200px){
+    .header{
+        padding: 2rem;
+    }
+}
+
+@media(max-width:991px){
+    html{
+        font-size: 55%;
+    }
+}
+@media(max-width:768px){
+    .header #menu-btn{
+            display: inline-block;
+    }
+    .navbar{
+        position: fixed;
+        top: 0;
+        left: 0;
+        background: white;
+        z-index: 10000;
+        width: 35rem;
+        height: 100%;
+        box-shadow: 0 0 0 100vw rgba(0, 0, 0, 0.8);
+        display: flex;
+        flex-flow: column;
+        align-items: center;
+        justify-content: center; 
+    }
+    .navbar a{
+        margin: 1rem;
+        font-size: 3rem;
+    }
+}
+@media(max-width:450px){
+    html{
+        font-size: 50%;
+    }
+}

@@ -14,7 +14,7 @@ section
 }
 .sec
 {
-    position: 
+    position:relative; 
     padding: 100px;
     background:rgb(0, 0, 0);
 

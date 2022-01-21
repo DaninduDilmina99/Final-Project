@@ -45,7 +45,7 @@ html::-webkit-scrollbar-thumb{
     align-items: center;
 }
 
-.logo{
+.header .logo{
     margin-right: auto;
     font-size: 2.5rem;
     font-weight: bolder;
@@ -56,31 +56,31 @@ i{
     color: green;
 }
 
-.navbar a{
+.header .navbar a{
     margin-left: 2rem;
     font-size: 1.7rem;
     color: black;
     
 }
 
-.navbar a:hover{
+.header .navbar a:hover{
     color: green;
 }
 
-.navbar #nav-close{
-    font-size: 5rem;
+.header .navbar #nav-close{
+    font-size: 4rem;
     cursor: pointer;
     color: black;
     display: none;
 }
-.icon{
+.header .icon{
     font-size: 2.5rem;
     margin-left: 2.5rem;
     cursor: pointer;
     color: black;
 }
 
-.icon:hover{
+.header .icon:hover{
     color: green;
 }
 
@@ -125,14 +125,13 @@ i{
         z-index: 10000;
         width: 35rem;
         height: 100%;
-        
         display: flex;
         flex-flow: column;
         align-items: center;
         justify-content: center; 
         
     }
-    .header .navbar .active{
+    .header .navbar.active{
         left: 0;
         box-shadow: 0 0 0 100vw rgba(0, 0, 0, 0.8);
         

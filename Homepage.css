@@ -67,7 +67,7 @@ i{
     color: green;
 }
 
-#nav-close{
+.navbar #nav-close{
     font-size: 5rem;
     cursor: pointer;
     color: black;
@@ -84,7 +84,9 @@ i{
     color: green;
 }
 
-
+.header #menu-btn{
+    display: none;
+}
 
 
 
@@ -115,26 +117,36 @@ i{
     .header #menu-btn{
             display: inline-block;
     }
-    .navbar{
+    .header .navbar{
         position: fixed;
         top: 0;
-        left: 0;
+        left: -110%;
         background: white;
         z-index: 10000;
         width: 35rem;
         height: 100%;
-        box-shadow: 0 0 0 100vw rgba(0, 0, 0, 0.8);
+        
         display: flex;
         flex-flow: column;
         align-items: center;
         justify-content: center; 
+        
     }
-    .navbar a{
-        margin: 1rem;
+    .header .navbar .active{
+        left: 0;
+        box-shadow: 0 0 0 100vw rgba(0, 0, 0, 0.8);
+        
+    }
+    .header .navbar a{
+        margin: 1rem 0;
         font-size: 3rem;
     }
 
-    #nav-close{
+    .header .navbar #nav-close{
+        display: block;
+        position: absolute;
+        top: 1rem;
+        right: 2rem;
         
     }
 }

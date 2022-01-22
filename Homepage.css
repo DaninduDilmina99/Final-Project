@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;0,500;0,600;1,100;1,300&display=swap");
+
 *{
     font-family: 'Poppins', sans-serif;
     margin: 0;
@@ -34,7 +36,7 @@ html::-webkit-scrollbar-thumb{
     background: black;
 }
 
-.section{
+section{
     padding: 5rem 9%;
 }
 
@@ -119,12 +121,28 @@ i{
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* media queries */
 @media(max-width:1200px){
     .header{
         padding: 2rem;
     }
-    .section{
+    section{
         padding: 3rem 2rem;
     }
 }

@@ -147,7 +147,11 @@ i{
     padding: 1rem 0;
   }
 
-
+.swiper-button-next::after,
+.swiper-button-prev::after{
+    font-size: 2rem;
+    color: black;
+}
 
 
 

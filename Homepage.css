@@ -149,7 +149,7 @@ i{
 
 .swiper-button-next::after,
 .swiper-button-prev::after{
-    font-size: 2rem;
+    font-size: 3rem;
     color: black;
 }
 
@@ -188,7 +188,30 @@ i{
     html{
         font-size: 55%;
     }
+    .home .box{
+        padding: 2rem;
+        justify-content: center;
+        background-position: right  !important; 
+    }
+    .home .box .box.second{
+        justify-content: center;
+        background-position: left !important;
+    }
+    .home .box .content {
+        text-align: center;
+    }
+
+    .home .box .content span {
+        font-size: 3rem;
+    }
+
+    .home .box .content h3 {
+        font-size: 4rem;
+    }
+
+
 }
+
 @media(max-width:768px){
     .header #menu-btn{
             display: inline-block;

@@ -10,15 +10,9 @@
     transition: .2s linear;
 }
 
-@mixin grid($val){
-    display: grid;
-    grid-template-coloms: repeat(auto-fit,minmax($val,1fr));
-    gap:1.5rem;
-}
-
 html{
     font-size: 62.5%;
-    overflow: hidden;
+    overflow-x: hidden;
     scroll-behavior: smooth;
     scroll-padding-top: 5rem;
 
@@ -106,9 +100,12 @@ i{
     background-position: center !important;
     justify-content: flex-end;
     padding: 2rem 9%;
+    
 }
 
-
+.home .box-second{
+    justify-content: flex-start;
+}
 
 
 

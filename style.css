@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
+section
+{
+    position:relative;
+    width:100%;
+    min-height:70vh;
+    display:flex;
+    justify-content:right;
+    align-items: right;
+    color: rgb(0, 0, 0);
+    
+   
+}
+.sec
+{
+    position:relative; 
+    padding: 100px;
+    background:rgb(0, 0, 0);
+
+}
+.sec h2
+{
+    font-size: 2.5em;
+    color: azure;
+    margin-bottom: 10px;
+}
+.sec p
+{
+    font-size: 1em;
+    color: azure;
+}
+body
+{
+overflow-x: hidden;
+
+min-height: 100vh;
+}
+section img 
+{
+    position:absolute;
+    top:0;
+    left:0;
+    width: :100%;
+    height:100%;
+    object-fit:cover;
+    pointer-events:none;
+    
+}
+
+
+
+h2{
+    position: relative;
+    font-family: 'Comfortaa', cursive;
+    margin: 0;
+    font-size: 5em;
+    font-weight: 900;
+    color: rgb(12, 22, 80);
+    z-index: 1;
+    overflow: hidden;
+    justify-content: center;
+    text-align: center;
+    
+    
+    
+}
+
+
+
+h2 span
+{
+    color: crimson;
+}

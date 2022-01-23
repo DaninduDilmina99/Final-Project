@@ -295,6 +295,19 @@ form.sign-in-form {
     top: 95%;
     transform: translate(-50%, -100%);
     transition: 1s 0.8s ease-in-out;
+    margin-top:20%;
+  }
+  .sign-up{
+    margin-bottom: 80%;
+  }
+
+  .logo img {
+    
+    transform: translate(-50%, 100%);
+    float: right;
+    margin-top: 90%;
+    border-radius: 50%;
+    padding-left: 100px;
   }
 
   .signin-signup,

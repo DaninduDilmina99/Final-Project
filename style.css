@@ -12,24 +12,8 @@ section
     
    
 }
-.sec
-{
-    position:relative; 
-    padding: 100px;
-    background:rgb(0, 0, 0);
 
-}
-.sec h2
-{
-    font-size: 2.5em;
-    color: azure;
-    margin-bottom: 10px;
-}
-.sec p
-{
-    font-size: 1em;
-    color: azure;
-}
+
 body
 {
 overflow-x: hidden;
@@ -50,25 +34,31 @@ section img
 
 
 
-h2{
-    position: relative;
-    font-family: 'Comfortaa', cursive;
-    margin: 0;
-    font-size: 5em;
-    font-weight: 900;
-    color: rgb(12, 22, 80);
-    z-index: 1;
-    overflow: hidden;
-    justify-content: center;
-    text-align: center;
-    
-    
-    
+
+
+
+.image{
+    flex:1 1 42rem;
+    padding-right: 5rem;
+    padding-bottom: 5rem;
+
+    img{
+        width:100%;
+        box-shadow: 4rem 4rem 0 rgb(0,0,0,1);
+    }
 }
 
+.abc{
+    justify-content:left;
+    align-items: left;
+    flex: 5cm;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 
+    font-weight: bold;
+    font-style: italic;
+    font-size: x-large;
+    color: rgb(36, 148, 124);
 
-h2 span
-{
-    color: crimson;
 }

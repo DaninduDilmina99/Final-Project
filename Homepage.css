@@ -106,7 +106,7 @@ i{
     padding: 0;
 }
 
-/* box wala text eka video eke thiyena widiyata hedenne ne */
+
 
 
 .home .box {
@@ -245,8 +245,14 @@ i{
         position: absolute;
         top: 1rem;
         right: 2rem;
-        
     }
+
+    .swiper-button-next::after,
+    .swiper-button-prev::after{
+    display: none;
+
+}
+
 }
 @media(max-width:450px){
     html{

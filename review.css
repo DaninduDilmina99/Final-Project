@@ -17,23 +17,3 @@ html{
     scroll-padding-top: 5rem;
 
 }
-
-html::-webkit-scrollbar{
-    width: 1rem;
-}
-html::-webkit-scrollbar-track{
-    background: white;
-}
-html::-webkit-scrollbar-thumb{
-    background: black;
-}
-
-section{
-    padding: 5rem 9%;
-}
-
-
-/* -------------------------------------------------------------------------------------------------- */
-
-
-

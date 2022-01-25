@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>nimesh</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+   <section class="about" id="about">
+<div class="image">
+    <img src="city6.svg" id="city6" alt="" width="700" height="400">
+    <img src="bus.svg" id="bus" alt="" >
+    
+</div>
+
+
+   </section>
+   <h3>Apekshawata Athwalak</h3>
+
+   <div class="abc">
+    
+    <p>Apekshawata AthwalakApekshawata 
+        Apekshawata AthwalakApekshawata 
+        Apekshawata AthwalakApekshawata
+        Apekshawata AthwalakApekshawata 
+        <span id="dots">.......</span>
+        <div id="more">
+        Apekshawata AthwalakApekshawata 
+        Apekshawata AthwalakApekshawata 
+        Apekshawata AthwalakApekshawata
+        Apekshawata AthwalakApekshawata
+        Apekshawata AthwalakApekshawata <br>
+        Apekshawata AthwalakApekshawata <br>
+        Apekshawata AthwalakApekshawata
+        Apekshawata AthwalakApekshawata
+        Apekshawata AthwalakApekshawata 
+        Apekshawata AthwalakApekshawata 
+        Apekshawata AthwalakApekshawata
+        Apekshawata AthwalakApekshawata
+        
+    </div>
+    </p>
+      <button id="btn">Read More</button>
+    </div>
+
+    <script>
+        function readmore(){
+            var dots=document.getElementById("dots");
+            var moretext=document.getElementById('more');
+            var btn=document.getElementById('btn');
+
+            if(dots.style.display==="none"){
+                dots.style.display="inline";
+                btn.innerHTML="Read More";
+                moretext.style.display='none';
+
+            }else{
+                dots.style.display='none';
+                btn.innerHTML="Read Less";
+                moretext.style.display='inline';
+            }
+        }
+    </script>
+
+    
+    <script>
+     
+     let city6 =document.getElementById('city6');
+     let bus =document.getElementById('bus');
+
+     window.addEventListener('scroll',function () {
+         let value =window.scrollY;
+
+         
+         bus.style.left=value*-1.15+'px';
+         city6.style.right=value*-1.22+'px';
+
+         
+     })
+    </script>
+</body>
+</html>

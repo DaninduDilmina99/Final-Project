@@ -1,84 +1,74 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>nimesh</title>
-    <link rel="stylesheet" type="text/css" href="style1.css">
+    <title>Home Page</title>
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
+
+    <link rel="stylesheet" href="style1.css">
+
 </head>
 <body>
-   <section class="about" id="about">
-<div class="image">
-    <img src="city6.svg" id="city6" alt="" width="700" height="400">
-    <img src="bus.svg" id="bus" alt="" >
-    
+   <div class="header">
+    <a href="#" class="logo"> <i class="fas fa-hiking"></i> travel.</a>
+    <div class="navbar">
+        <div id="nav-close" class="fas fa-times"></div>  
+        <a href="#home">Home</a>
+        <a href="#Bus Schedule">Bus Schedule</a>
+        <a href="#Booking">Booking</a>
+        <a href="#Donate">Donate</a>
+        <a href="#Reviews">Reviews</a>
+        <a href="#About">About</a>
+        <a href="#Contact">Contact</a>
+    </div>
+
+    <div class="icon">
+        <div id="menu-btn" class="fas fa-bars"></div>
+    </div>
+
 </div>
-
-
-   </section>
-   <h3>Apekshawata Athwalak</h3>
-
-   <div class="abc">
+ 
+<section class="about" id="about">
+    <div class="image">
     
-    <p>Apekshawata AthwalakApekshawata 
-        Apekshawata AthwalakApekshawata 
-        Apekshawata AthwalakApekshawata
-        Apekshawata AthwalakApekshawata 
-        <span id="dots">.......</span>
-        <div id="more">
-        Apekshawata AthwalakApekshawata 
-        Apekshawata AthwalakApekshawata 
-        Apekshawata AthwalakApekshawata
-        Apekshawata AthwalakApekshawata
-        Apekshawata AthwalakApekshawata <br>
-        Apekshawata AthwalakApekshawata <br>
-        Apekshawata AthwalakApekshawata
-        Apekshawata AthwalakApekshawata
-        Apekshawata AthwalakApekshawata 
-        Apekshawata AthwalakApekshawata 
-        Apekshawata AthwalakApekshawata
-        Apekshawata AthwalakApekshawata
+        <img src="bus.svg" alt="" id="bus">
+
+    </div>
+    
+
+    <div class="content">
+        <br><br><br><br>
+        <h3>Apekshwta Athwalak</h3>
+
+        <br><br>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Id, eius. Reprehenderit itaque quaerat ipsam eum quibusdam officia eaque, atque rerum!</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed accusantium asperiores perspiciatis corrupti corporis in, consequatur ab possimus libero inventore, eaque et deserunt repellendus dolorum nesciunt expedita itaque laborum labore.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus incidunt repudiandae rem explicabo fuga! Similique autem iure, mollitia ab tempora sint voluptas vitae laborum quo vel architecto cupiditate rem temporibus eum ducimus accusantium dicta error nostrum voluptates porro minus officiis.</p>
+       
         
+    <a href="#" class="btn">ReadMore</a>
     </div>
-    </p>
-      <button id="btn">Read More</button>
-    </div>
+</section>
 
-    <script>
-        function readmore(){
-            var dots=document.getElementById("dots");
-            var moretext=document.getElementById('more');
-            var btn=document.getElementById('btn');
 
-            if(dots.style.display==="none"){
-                dots.style.display="inline";
-                btn.innerHTML="Read More";
-                moretext.style.display='none';
 
-            }else{
-                dots.style.display='none';
-                btn.innerHTML="Read Less";
-                moretext.style.display='inline';
-            }
-        }
-    </script>
-
-    
-    <script>
-     
-     let city6 =document.getElementById('city6');
-     let bus =document.getElementById('bus');
+<script>
+       
+     let image =document.getElementById('image');
 
      window.addEventListener('scroll',function () {
-         let value =window.scrollY;
+         let value = window.scrollY;
 
+         image.style.left= value * -0.15 + 'px';
          
-         bus.style.left=value*-1.15+'px';
-         city6.style.right=value*-1.22+'px';
-
          
      })
-    </script>
+
+</script>
+
+
+   
 </body>
 </html>

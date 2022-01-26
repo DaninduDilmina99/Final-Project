@@ -29,7 +29,17 @@ html::-webkit-scrollbar-thumb{
 }
 
 
-/* -------------------------------------------------------------------------------------------------- */
+.reviews .slide .text {
+    padding: 2rem;
+    font-size: 1.6rem;
+    background: rgb(117, 129, 117);
+    border-radius: 5rem;
+    color: black;
+    line-height: 2;
+    position: relative;
+    z-index: 0;
+    margin-bottom: 3rem;
+}
 
 
 

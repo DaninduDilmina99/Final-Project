@@ -32,7 +32,7 @@ html::-webkit-scrollbar-thumb{
 .reviews .slide .text {
     padding: 2rem;
     font-size: 1.6rem;
-    background: rgb(117, 129, 117);
+    background: #eee;
     border-radius: 5rem;
     color: black;
     line-height: 2;
@@ -41,5 +41,21 @@ html::-webkit-scrollbar-thumb{
     margin-bottom: 3rem;
 }
 
+.reviews .slide .user {
+    display: flex; 
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .reviews .slide .user img {
+    height: 7rem;
+    width: 7rem;
+    border-radius: 50%;
+  }
+
+  .reviews .slide .user h3 {
+    font-size: 2rem;
+    color: #10221b;
+  }
 
 

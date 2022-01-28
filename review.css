@@ -39,11 +39,7 @@ section{
     padding: 5rem 9%;
 }
 
-.swiper-button-next::after,
-.swiper-button-prev::after {
-  font-size: 3rem;
-  color: #10221b;
-}
+
 
 .reviews .slide .text {
     padding: 2rem;
@@ -94,7 +90,11 @@ section{
 
 
 
-
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  font-size: 3rem;
+  color: black;
+}
 
 
 

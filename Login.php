@@ -1,4 +1,4 @@
-
+<?php include('server.php'); ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -14,7 +14,8 @@
     <div class="container"> 
       <div class="forms-container">    
         <div class="signin-signup">
-          <form action="#" class="sign-in-form">
+          <form action="Login.php" class="sign-in-form" method ="POST">
+          <?php include('errors.php'); ?>
             <div class="logo">
               <img src="img/Logo.jpeg" alt="Logo"/>
            </div>  
@@ -44,14 +45,15 @@
               </a>
             </div>
           </form>
-          <form action="#" class="sign-up-form">
+          <form action="Login.php" class="sign-up-form" method="POST">
+          <?php include('errors.php'); ?>
             <div class="logo">
               <img src="img/Logo.jpeg" alt="Logo"/>
            </div>  
             <h2 class="title">Sign up</h2>
             <div class="input-field">
               <i class="fas fa-user"></i>
-              <input type="text" placeholder="Username" name="username"/>
+              <input type="text" placeholder="Username" name="username" />
             </div>
             <div class="input-field">
               <i class="fas fa-envelope"></i>
@@ -61,7 +63,7 @@
               <i class="fas fa-lock"></i>
               <input type="password" placeholder="Password" name="password"/>
             </div>
-            <input type="submit" class="btn" value="Sign up" />
+            <input type="submit" class="btn" value="Sign up" name="Users"/>
             <p class="social-text">Or Sign up with social platforms</p>
             <div class="social-media">
               <a href="#" class="social-icon">

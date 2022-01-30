@@ -3,14 +3,14 @@
 session_start();
 
 //initializing variables
-$server = "localhost";
-$user = "root";
-$pass = "";
-$errors = array();
-$database = "Login_register";
+// initializing variables
+$username = "";
+$email    = "";
+$errors = array(); 
+
 
 //connect to the database
-$conn = mysqli_connect($server, $user, $pass, $database);
+$conn = mysqli_connect('localhost', 'root','','Login_register' );
 
 //Register the user
 if(isset($_POST['Users'])){
@@ -18,7 +18,8 @@ if(isset($_POST['Users'])){
     $username = mysqli_real_escape_string($conn, $_POST['username']);
     $email = mysqli_real_escape_string($conn, $_POST['email']);
     $password = mysqli_real_escape_string($conn, $_POST['password']);
-
+  // form validation: ensure that the form is correctly filled ...
+  // by adding (array_push()) corresponding error unto $errors array
     if (empty($username)) { 
         array_push($errors, "Username is required"); 
     }

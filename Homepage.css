@@ -36,16 +36,16 @@ section{
 .btn{
     margin-top: 1rem;
     display: inline-block;
-    border: 0.2rem solid black;
-    color: black;
+    border: 0.2rem solid white;
+    color: white;
     cursor: pointer;
     background: none;
     font-size: 1.7rem;
     padding: 1rem 3rem;
 }
 .btn:hover{
-    background: black;
-    color: white;
+    background: rgb(0, 183, 255);
+    color: black;
 }
 
 .header{
@@ -57,28 +57,29 @@ section{
     z-index: 1000;
     display: flex;
     align-items: center;
+    
 }
 
 .header .logo{
     margin-right: auto;
     font-size: 2.5rem;
     font-weight: bolder;
-    color: black;
+    color: white;
 
 }
 i{
-    color: green;
+    color: rgb(0, 183, 255);
 }
 
 .header .navbar a{
     margin-left: 2rem;
     font-size: 1.7rem;
-    color: black;
+    color: white;
     
 }
 
 .header .navbar a:hover{
-    color: green;
+    color: rgb(0, 183, 255);
 }
 
 .header .navbar #nav-close{
@@ -131,19 +132,19 @@ i{
   
   .home .box .content span {
     font-size: 4rem;
-    color: black;
+    color: white;
   }
 
   .home .box .content h3 {
     font-size: 6rem;
-    color: green;
+    color: rgb(0, 183, 255);
     padding-top: .5rem;
     text-transform: uppercase;
   }
   
   .home .box .content p {
     line-height: 2;
-    color: black;
+    color: white;
     font-size: 1.5rem;
     padding: 1rem 0;
   }
@@ -151,7 +152,7 @@ i{
 .swiper-button-next::after,
 .swiper-button-prev::after{
     font-size: 3rem;
-    color: black;
+    color: white;
 }
 
 

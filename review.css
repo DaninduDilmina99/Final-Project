@@ -43,7 +43,8 @@ section{
 
 .reviews .slide .text {
     padding: 2rem;
-    font-size: 1.6rem;
+    font-size: 1.5rem;
+    font-style: italic;
     background: #eee;
     border-radius: .5rem;
     color: black;
@@ -89,12 +90,12 @@ section{
 }
 
 
-
+/* 
 .swiper-button-next::after,
 .swiper-button-prev::after {
   font-size: 3rem;
   color: black;
-}
+} */
 
 
 

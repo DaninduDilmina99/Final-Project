@@ -1,4 +1,52 @@
-<?php include('server.php'); ?>
+<?php
+
+include 'server.php';
+
+session_start();
+
+error_reporting(0);
+
+if (isset($_SESSION["user_id"])) {
+  header("Location: HomePage.php");
+}
+
+if (isset($_POST["signup"])) {
+  $full_name = mysqli_real_escape_string($conn, $_POST["signup_full_name"]);
+  $email = mysqli_real_escape_string($conn, $_POST["signup_email"]);
+  $password = mysqli_real_escape_string($conn, md5($_POST["signup_password"]));
+ 
+
+  $check_email = mysqli_num_rows(mysqli_query($conn, "SELECT email FROM users WHERE email='$email'"));
+ if ($check_email > 0) {
+    echo "<script>alert('Email already exists in out database.');</script>";
+  } else {
+    $sql = "INSERT INTO users (full_name, email, password) VALUES ('$full_name', '$email', '$password')";
+    $result = mysqli_query($conn, $sql);
+    if ($result) {
+      $_POST["signup_full_name"] = "";
+      $_POST["signup_email"] = "";
+      $_POST["signup_password"] = "";
+    }
+  }
+}
+
+if (isset($_POST["signin"])) {
+  $email = mysqli_real_escape_string($conn, $_POST["email"]);
+  $password = mysqli_real_escape_string($conn, md5($_POST["password"]));
+
+  $check_email = mysqli_query($conn, "SELECT id FROM users WHERE email='$email' AND password='$password'");
+
+  if (mysqli_num_rows($check_email) > 0) {
+    $row = mysqli_fetch_assoc($check_email);
+    $_SESSION["user_id"] = $row['id'];
+    header("Location: HomePage.php");
+  } else {
+    echo "<script>alert('Login details is incorrect. Please try again.');</script>";
+  }
+}
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -22,11 +70,11 @@
             <h2 class="title">Sign in</h2>
             <div class="input-field">
               <i class="fas fa-user"></i>
-              <input type="text" placeholder="Username" />
+              <input type="text" placeholder="Email Address" name="email" value="<?php echo $_POST['email']; ?>" required/>
             </div>
             <div class="input-field">
               <i class="fas fa-lock"></i>
-              <input type="password" placeholder="Password" />
+              <input type="password" placeholder="Password" name="password" value="<?php echo $_POST['password']; ?>" required />
             </div>
             <input type="submit" value="Login" class="btn solid" />
             <p class="social-text">Or Sign in with social platforms</p>
@@ -53,11 +101,11 @@
             <h2 class="title">Sign up</h2>
             <div class="input-field">
               <i class="fas fa-user"></i>
-              <input type="text" placeholder="Username" name="username" />
+              <input type="text" placeholder="Full Name" name="signup_full_name" value="<?php echo $_POST["signup_full_name"]; ?>" required />
             </div>
             <div class="input-field">
               <i class="fas fa-envelope"></i>
-              <input type="email" placeholder="Email" name="email" />
+              <input type="email" placeholder="Email Address" name="signup_email" value="<?php echo $_POST["signup_email"]; ?>" required/>
             </div>
             <div class="input-field">
               <i class="fas fa-lock"></i>

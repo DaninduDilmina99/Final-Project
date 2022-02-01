@@ -1,3 +1,2 @@
 # Final-Project
-merge karanawai kiyanne mala magulak oi -__-
-hoda wde ubata
+aneee itinn oya commit dansalak dalane

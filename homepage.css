@@ -58,24 +58,23 @@ section{
     display: flex;
     align-items: center;
     
+    
 }
 
 .header .logo img{
     margin-right: auto;
-    max-width: 25vw;
-    
+    max-width: 15vw;
+    margin-left: 2rem;
     
 
 }
-i{
-    color: rgb(0, 183, 255);
-}
+
 
 .header .navbar a{
     
     margin-left: 4rem;
-    font-size: 1.7rem;
-    color: white;
+    font-size: 1.9rem;
+    color: black;
     
 }
 
@@ -121,7 +120,10 @@ i{
     justify-content: flex-end;
     padding: 2rem 9%;
     
+
 }
+
+
 
 .home .box.second{
     justify-content: flex-start;

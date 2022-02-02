@@ -124,9 +124,22 @@ section{
 }
 
 
+.home .box {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-size: cover !important;
+    background-position: center !important;
+    justify-content: flex-end;
+    padding: 2rem 9%;
+    
+
+}
+
+
 
 .home .box.second{
-    justify-content: flex-start;
+    justify-content: left;
 }
 
 .home .box .content {
@@ -220,6 +233,7 @@ section{
 @media(max-width:768px){
     .header #menu-btn{
             display: inline-block;
+            
     }
     .header .navbar{
         position: fixed;

@@ -53,18 +53,18 @@ section{
     top: 0;
     left: 0;
     right: 0;
-    padding: 2rem 9%;
+    padding: 2.5rem ;
     z-index: 1000;
     display: flex;
     align-items: center;
     
 }
 
-.header .logo{
+.header .logo img{
     margin-right: auto;
-    font-size: 2.5rem;
-    font-weight: bolder;
-    color: white;
+    max-width: 25vw;
+    
+    
 
 }
 i{
@@ -72,7 +72,8 @@ i{
 }
 
 .header .navbar a{
-    margin-left: 2rem;
+    
+    margin-left: 4rem;
     font-size: 1.7rem;
     color: white;
     

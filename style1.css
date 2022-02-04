@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
 *{
     font-family: 'Poppins', sans-serif;
     margin: 0;
@@ -156,8 +157,9 @@ i{
     
 }
 h3{
-    font-size: 3rem;
+    font-size: 4rem;
     color: darkcyan;
+    font-family: 'Comfortaa', cursive;
 }
 img{
     width:100%;

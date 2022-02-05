@@ -61,4 +61,23 @@
     font-size: 16px;
     color: aliceblue;
     flex-direction: column;
+    font-weight: 300;
+}
+.container .contactinfo .box .text h3{
+    font-weight: 500;
+    color: blanchedalmond;
+}
+.contactform{
+    width: 40%;
+    padding: 40px;
+    background: #fff;
+}
+.contactform h2{
+    font-size: 30px;
+    color: #333;
+}
+.contactform .inputbox{
+    position: relative;
+    width: 100%;
+    margin-top: 10px;
 }

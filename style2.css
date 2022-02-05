@@ -1,3 +1,36 @@
-h2{
+*
+{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
+
+}
+.contact{
+
+    position: relative;
+    min-height: 100vh;
+    padding: 50px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column ;
+    background:url(bus22.jpg);
+    background-size: cover;
+}
+.contact .content{
+    max-width: 800px;
+    text-align:center ;
+
+}
+ .contact .content h2 {
+    font-size: 36px;
+    font-weight: 500;
+    color: aliceblue;
+}
+.contact .content p {
+    
+    font-weight: 300;
+    color: aliceblue;
 }

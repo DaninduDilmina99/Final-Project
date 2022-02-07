@@ -60,7 +60,8 @@ if (isset($_POST["signin"])) {
   if (mysqli_num_rows($check_email) > 0) {
     $row = mysqli_fetch_assoc($check_email);
     $_SESSION["user_id"] = $row['id'];
-    header("Location: homepage.php");
+    header("Location: ./index.php?page=homepage");
+   
   } else {
     echo "<script>alert('Login details is incorrect. Please try again.');</script>";
   }

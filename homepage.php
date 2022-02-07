@@ -23,7 +23,6 @@
         <a href="./index.php?page=review">Reviews</a>
         <a href="#About">About</a>
         <a href="#Contact">Contact</a>
-        <a href="./index.php?page=login">Login</a>
     </div>
 
     <div class="icon">

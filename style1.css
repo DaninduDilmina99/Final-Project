@@ -10,6 +10,19 @@
     text-transform: capitalize;
     transition: .2s linear;
 }
+.t{
+
+    position: relative;
+    
+    min-height: 100vh;
+    padding: 50px 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column ;
+    background:url(nose-soft-pastel-pink-wallpaper-preview.jpg);
+    background-size: cover;
+}
 
 html{
     font-size: 62.5%;
@@ -168,6 +181,7 @@ img{
 
 
 .image{
+    
     flex:1 1 42rem;
     padding-right:5rem;
     padding-bottom:5rem;
@@ -178,7 +192,7 @@ img{
 p{
     font-size: 1.5rem;
     color: black;
-    padding: 1rem 0;
+    padding: 1.2rem 0;
 }
 
 

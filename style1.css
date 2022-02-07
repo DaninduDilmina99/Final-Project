@@ -20,7 +20,7 @@
     justify-content: center;
     align-items: center;
     flex-direction:column ;
-    background:url(nose-soft-pastel-pink-wallpaper-preview.jpg);
+    background:url(123.jpg);
     background-size: cover;
 }
 
@@ -58,28 +58,29 @@ section{
     z-index: 1000;
     display: flex;
     align-items: center;
+    
 }
 
 .header .logo{
     margin-right: auto;
     font-size: 2.5rem;
     font-weight: bolder;
-    color: black;
+    color: white;
 
 }
 i{
-    color: green;
+    color: rgb(0, 183, 255);
 }
 
 .header .navbar a{
     margin-left: 2rem;
     font-size: 1.7rem;
-    color: black;
+    color: white;
     
 }
 
 .header .navbar a:hover{
-    color: green;
+    color: rgb(0, 183, 255);
 }
 
 .header .navbar #nav-close{
@@ -170,8 +171,8 @@ i{
     
 }
 h3{
-    font-size: 4rem;
-    color: darkcyan;
+    font-size: 4.5rem;
+    color: rgb(51, 65, 65);
     font-family: 'Comfortaa', cursive;
 }
 img{

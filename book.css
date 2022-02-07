@@ -1,5 +1,5 @@
 .container .img{
-    background-image: url(../img/bus.jpeg);
+    background-image: url(img/bus.jpeg);
     background-size:cover; 
     opacity : 0.5 !important;
 }

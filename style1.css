@@ -183,7 +183,7 @@ img{
 
 .image{
     
-    flex:1 1 42rem;
+    flex:0 1 42rem;
     padding-right:5rem;
     padding-bottom:5rem;
 
@@ -192,9 +192,39 @@ img{
 }
 p{
     font-size: 1.5rem;
-    color: black;
+    color: rgb(48, 45, 45);
     padding: 1.2rem 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+h1{
+    font-size: 1.5rem;
+    color: rgb(233, 210, 210);
+    padding: 1.2rem 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h2{
+
+    font-size: 2.5rem;
+    color: rgb(190, 250, 187);
+    padding: 1.2rem 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

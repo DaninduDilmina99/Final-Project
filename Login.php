@@ -7,7 +7,7 @@ include 'config.php';
 error_reporting(0);
 
 if (isset($_SESSION["user_id"])) {
-  header("Location: welcome.php");
+  header("Location: http://localhost/Final-Project/homepage.php");
 }
 
 if (isset($_POST["signup"])) {
@@ -60,7 +60,7 @@ if (isset($_POST["signin"])) {
   if (mysqli_num_rows($check_email) > 0) {
     $row = mysqli_fetch_assoc($check_email);
     $_SESSION["user_id"] = $row['id'];
-    header("Location: ./index.php?page=homepage");
+    header("Location: http://localhost/Final-Project/homepage.php");
    
   } else {
     echo "<script>alert('Login details is incorrect. Please try again.');</script>";

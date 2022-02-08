@@ -69,11 +69,11 @@
                                             
                                             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                                             <ul class="nav navbar-nav navbar-right navBar">
-                                                    <li class="nav-item"><a href="./index.php?page=homepage" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Home <span class="sr-only">(current)</span></a></li>
+                                                    <li class="nav-item"><a href="http://localhost/Final-Project/homepage.php" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Home <span class="sr-only">(current)</span></a></li>
                                                     <li class="nav-item"><a href="./index.php?page=schedule" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Bus Shedule</a></li>
                                                     <li class="nav-item"><a href="./index.php?page=home" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Booking</a></li>
                                                     <li class="nav-item"><a href="#section3" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Donate</a></li>
-                                                    <li class="nav-item"><a href="./index.php?page=reviews" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Review</a></li>
+                                                    <li class="nav-item"><a href="http://localhost/Final-Project/reviews.php" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Review</a></li>
                                                     <li class="nav-item"><a href="#section5" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">About</a></li>
                                                     <li class="nav-item"><a href="#section6" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Contact</a></li>
 
@@ -105,7 +105,7 @@
                           <h2>A Taste Of  The Good Life</h2>
                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis leo vitae lacinia congue.</p>
 
-                          <a class="default-btn1 learn-more" href="about.html">BUS SHEDULE</a>
+                          <a class="default-btn1 learn-more" href="index.php?page=schedule">BUS SHEDULE</a>
                         </div>
                       </div>
                     </div>

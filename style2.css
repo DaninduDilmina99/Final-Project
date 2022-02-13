@@ -136,7 +136,7 @@ transform: translateY(-20px);
 @media(max-width:991px)
 {
     .contact{
-        padding: :50px;
+        padding: 50px;
     }
     .container{
         flex-direction: column;

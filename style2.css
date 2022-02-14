@@ -7,6 +7,61 @@
 
 
 }
+
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 2rem 9%;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    
+}
+
+.header .logo{
+    margin-right: auto;
+    font-size: 2.5rem;
+    font-weight: bolder;
+    color: white;
+
+}
+i{
+    color: rgb(0, 183, 255);
+}
+
+.header .navbar a{
+    margin-left: 2rem;
+    font-size: 1.7rem;
+    color: white;
+    
+}
+
+.header .navbar a:hover{
+    color: rgb(0, 183, 255);
+}
+
+.header .navbar #nav-close{
+    font-size: 4rem;
+    cursor: pointer;
+    color: black;
+    display: none;
+}
+.header .icon{
+    font-size: 2.5rem;
+    margin-left: 2.5rem;
+    cursor: pointer;
+    color: black;
+}
+
+.header .icon:hover{
+    color: green;
+}
+
+.header #menu-btn{
+    display: none;
+}
 .contact{
 
     position: relative;

@@ -10,6 +10,25 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css" integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous">
 </head>
 <body>
+<div class="t">
+        <div class="header">
+            <a href="#" class="logo"> <i class="fas fa-hiking"></i> travel.</a>
+            <div class="navbar">
+                <div id="nav-close" class="fas fa-times"></div>  
+                <a href="#home">Home</a>
+                <a href="#Bus Schedule">Bus Schedule</a>
+                <a href="#Booking">Booking</a>
+                <a href="#Donate">Donate</a>
+                <a href="#Reviews">Reviews</a>
+                <a href="#About">About</a>
+                <a href="#Contact">Contact</a>
+            </div>
+        
+            <div class="icon">
+                <div id="menu-btn" class="fas fa-bars"></div>
+            </div>
+        
+        </div>
     <section class="contact">
         <div class="content">
             <h2>Contact Us</h2>

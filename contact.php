@@ -29,6 +29,7 @@
             </div>
         
         </div>
+        <br><br>
     <section class="contact">
         <div class="content">
             <h2>Contact Us</h2>

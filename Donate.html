@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Donation</title>
+
+    <link rel="stylesheet" href="C:\xampp\htdocs\apeksha\Donate.css">
+    <link rel="stylesheet" href="C:\xampp\htdocs\apeksha\Donate.js">
+
+</head>
+<body>
+    <form action="Donate.php" method="Get">
+        <div class="elem-group">
+          <label for="name">Full Name</label>
+          <input type="text" id="name" name="Donator_name" placeholder="Enter Your Full Name" pattern=[A-Z\sa-z]{3,20} required>
+        </div>
+        <hr>
+        <div class="elem-group">
+            <label for="gender">Gender</label>
+            <select id="gender" name="Donator_gendr" required>
+                <option value="">Choose Your Gender</option>
+                <option value="Male">Male</option>
+                <option value="Female">Female</option>
+            </select>
+          </div>
+          <hr>
+        <div class="elem-group">
+          <label for="email">E-mail</label>
+          <input type="email" id="email" name="Donator_email" placeholder="Enter Your E-mail" required>
+        </div>
+        <hr>
+        <div class="elem-group">
+          <label for="phone">Phone Number</label>
+          <input type="tel" id="phone" name="Donator_phone" placeholder="Enter Your Phone Number"  required>
+        </div>
+        <hr>
+        <div class="elem-group">
+          <label for="donation">Donation</label>
+          <select id="donation" name="Donation_type" required>
+              <option value="">Choose Your Donation Type</option>
+              <option value="Blood">Blood</option>
+                <option value="Hair">Hair</option>
+                <option value="Food">Food</option>
+                <option value="Toys">Toys</option>
+                <option value="Books">Books</option>
+                <option value="Instruments">Instrumet</option>
+                <option value="Money">Money</option>
+          </select>
+        </div>
+        <hr>
+        <button type="submit">Submit</button>
+      </form>
+</body>
+</html>

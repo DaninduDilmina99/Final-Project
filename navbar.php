@@ -74,13 +74,13 @@
                         <!-- Collect the nav links, forms, and other content for toggling -->
                         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                           <ul class="nav navbar-nav navbar-right navBar">
-                            <li class="nav-item"><a href="http://localhost/Final-Project/homepage.php" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Home </a></li>
+                          <li class="nav-item"><a href="http://localhost/Final-Project/homepage.php" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Home </a></li>
                             <li class="nav-item"><a href="./index.php?page=schedule" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Bus Shedule</a></li>
                             <li class="nav-item"><a href="./index.php?page=home" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Booking</a></li>
-                            <li class="nav-item"><a href="" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Donate</a></li>
+                            <li class="nav-item"><a href="Donate.html" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Donate</a></li>
                             <li class="nav-item"><a href="http://localhost/Final-Project/reviews.php" class="active nav-link text-uppercase font-weight-bold js-scroll-trigger">Review</a></li>
-                            <li class="nav-item"><a href="" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">About</a></li>
-                            <li class="nav-item"><a href="" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Contact</a></li>
+                            <li class="nav-item"><a href="about us.html" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">About</a></li>
+                            <li class="nav-item"><a href="contact.php" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Contact</a></li>
                             <li class="drop-down nav-bus nav-location"><a href="#">Maintenance</a>
                             <ul>
               <li><a href="./index.php?page=bus">Bus List</a></li>

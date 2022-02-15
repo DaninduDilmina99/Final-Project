@@ -12,7 +12,7 @@
 <body>
     <div class="t">
         <div class="header">
-            <a href="#" class="logo"> <i class="fas fa-hiking"></i> travel.</a>
+            <a href="#" class="logo"></a>
             <div class="navbar">
                 <div id="nav-close" class="fas fa-times"></div>  
                 <a href="http://localhost/Final-Project/homepage.php">Home</a>
@@ -26,7 +26,7 @@
                 <li><a href="./index.php?page=bus">Bus List</a></li>
               <li><a href="./index.php?page=location">Location List</a></li> 
            
-          <li class="drop-down nav-user"><a href="#"><?php echo $_SESSION['load_user'] ?> </a>
+          <li class="drop-down nav-user"><a href="#"><?php echo isset($_SESSION['load_user']) ?> </a>
              <ul>
   
               <li><a href="./index.php?page=user">Users</a></li>

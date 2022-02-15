@@ -1,7 +1,7 @@
 <?php
 session_start();
 include('db_connect.php');
-	$qry = $conn->query("SELECT * FROM users where id = ".$_SESSION['login_id'])->fetch_array();
+	$qry = $conn->query("SELECT * FROM users where id = ".isset($_SESSION['login_id']))->fetch_array();
 	foreach($qry as $k => $val){
 		$meta[$k] =  $val;
 	}

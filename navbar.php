@@ -22,19 +22,18 @@
                 <a href="http://localhost/Final-Project/reviews.php">Reviews</a>
                 <a href="about us.html">About</a>
                 <a href="contact.php">Contact</a>
-                <a href="#">Maintenance</a>
-                <li><a href="./index.php?page=bus">Bus List</a></li>
-              <li><a href="./index.php?page=location">Location List</a></li> 
+                <a href="./index.php?page=bus">Bus List</a>
+               <a href="./index.php?page=location">Location List</a>
            
-          <li class="drop-down nav-user"><a href="#"><?php echo isset($_SESSION['load_user']) ?> </a>
+          <div class="drop-down nav-user"><a href="#"><?php echo isset($_SESSION['load_user']) ?> </a>
              <ul>
   
-              <li><a href="./index.php?page=user">Users</a></li>
-              <li><a href="javascript:void(0)" id="manage_account">Manage Account</a></li>
-              <li><a href="./logout.php">Logout</a></li>
+              <a href="./index.php?page=user">Users</a>
+              <a href="javascript:void(0)" id="manage_account">Manage Account</a>
+              <a href="./logout.php">Logout</a>
              
             </ul>
-          </li>
+</div>
             </div>
         
             <div class="icon">

@@ -77,9 +77,21 @@ i{
     margin-left: 2rem;
     font-size: 1.7rem;
     color: rgb(63, 61, 61);
+    list-style :none !important;
     
 }
+.header .navbar ul li a{
+    position: absolute;
+    left: 0;
+    width: 200px;
+    font-size: 20px;
+    padding : 20px;
+    display: block;
+}
+.header .navbar ul li a:hover{
+    color: red;
 
+}
 .header .navbar a:hover{
     color: rgb(226, 27, 27);
 }

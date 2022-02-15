@@ -9,7 +9,7 @@
     text-decoration: none;
     text-transform: capitalize;
     transition: .2s linear;
-    font-size:20px;
+    font-size:2px;
 }
 .t{
 
@@ -21,12 +21,12 @@
     justify-content: center;
     align-items: center;
     flex-direction:column ;
-    background:url(bookingbus.jpeg);
+    background:url(hospital.jpeg);
     background-size: cover;
 }
 
 html{
-    font-size: 62.5%;
+    font-size: 23.5%;
     overflow-x: hidden;
     scroll-behavior: smooth;
     scroll-padding-top: 5rem;

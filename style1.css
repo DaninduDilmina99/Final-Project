@@ -9,7 +9,7 @@
     text-decoration: none;
     text-transform: capitalize;
     transition: .2s linear;
-    font-size:2px;
+    font-size:14px;
 }
 .t{
 
@@ -26,7 +26,7 @@
 }
 
 html{
-    font-size: 23.5%;
+    font-size: 73.5%;
     overflow-x: hidden;
     scroll-behavior: smooth;
     scroll-padding-top: 5rem;
@@ -66,7 +66,7 @@ section{
     margin-right: auto;
     font-size: 2.5rem;
     font-weight: bolder;
-    color: white;
+    color: black;
 
 }
 i{
@@ -76,12 +76,12 @@ i{
 .header .navbar a{
     margin-left: 2rem;
     font-size: 1.7rem;
-    color: white;
+    color: rgb(63, 61, 61);
     
 }
 
 .header .navbar a:hover{
-    color: rgb(0, 183, 255);
+    color: rgb(226, 27, 27);
 }
 
 .header .navbar #nav-close{
@@ -139,10 +139,10 @@ i{
 
   .home .box .content h3 {
     font-size: 6rem;
-    color: rgb(196, 224, 196);
+    color: rgb(223, 119, 50);
     padding-top: .5rem;
     text-transform: uppercase;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   }
   
   .home .box .content p {
@@ -174,7 +174,7 @@ i{
 }
 h3{
     font-size: 4.5rem;
-    color: rgb(213, 233, 233);
+    color: rgb(180, 64, 35);
     font-family: 'Comfortaa', cursive;
 }
 img{

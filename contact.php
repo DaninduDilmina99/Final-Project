@@ -33,7 +33,7 @@
     <section class="contact">
         <div class="content">
             <h2>Contact Us</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque facilis quo quas minus, ratione minima consequatur fuga pariatur eius. Consequatur, laborum doloremque ab odit eveniet dolorem numquam perspiciatis delectus quam.</p>
+            <p>Lorem ipsum equatur, laborum doloremque ab odit eveniet dolorem numquam perspiciatis delectus quam.</p>
 
         </div>
 
@@ -43,7 +43,7 @@
                     <div class="icon"></div>
                         <div class="text">
                             <h3>Address</h3>
-                            <p>no 08 <br>absd efgh <br>matara</p>
+                            <p>NSBM Green University<br>Mahenwaththa,  <br>Pitipana,<br> Homagama</p>
                         </div>
                     
                     
@@ -52,7 +52,7 @@
                     <div class="icon"></div>
                         <div class="text">
                             <h3>Phone</h3>
-                            <p>0715455656</p>
+                            <p>+94 (11) 544 5000</p>
                         </div>
                     
                     
@@ -61,7 +61,7 @@
                     <div class="icon"></div>
                         <div class="text">
                             <h3>Email</h3>
-                            <p>nimesh@gmail.com</p>
+                            <p>inquiries@nsbm.ac.lk</p>
                         </div>
                     
                     

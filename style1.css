@@ -11,10 +11,11 @@
     transition: .2s linear;
     font-size:14px;
 }
+
+
 .t{
 
     position: relative;
-    
     min-height: 100vh;
     padding: 50px 100px;
     display: flex;

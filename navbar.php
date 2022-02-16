@@ -1,53 +1,106 @@
-<!DOCTYPE html>
+
+  <!DOCTYPE html>
 <html lang="en">
+
 <head>
-    
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-
-    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
-
-    <link rel="stylesheet" href="style1.css">
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://kit.fontawesome.com/83325a7e2a.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="stylenew.css">
+    <title>Responsive Navbar</title>
 </head>
+
 <body>
-    <div class="t">
-        <div class="header">
-            <a href="#" class="logo"></a>
-            <div class="navbar">
-                <div id="nav-close" class="fas fa-times"></div>  
-                <a href="http://localhost/Final-Project/homepage.php">Home</a>
-                <a href="./index.php?page=schedule">Bus Schedule</a>
-                <a href="./index.php?page=home">Booking</a>
-                <a href="Donate.html">Donate</a>
-                <a href="http://localhost/Final-Project/reviews.php">Reviews</a>
-                <a href="about us.html">About</a>
-                <a href="contact.php">Contact</a>
-                <a href="./index.php?page=bus">Bus List</a>
-               <a href="./index.php?page=location">Location List</a>
-           
-          <div class="drop-down nav-user"><a href="#"><?php echo isset($_SESSION['load_user']) ?> </a>
-             <ul>
-  
-              <a href="./index.php?page=user">Users</a>
-              <a href="javascript:void(0)" id="manage_account">Manage Account</a>
-              <a href="./logout.php">Logout</a>
-             
-            </ul>
-</div>
+    <header>
+        <div class="container">
+            <input type="checkbox" name="" id="check">
+            
+            <div class="logo-container">
+                <img src="img/Logo.png" class="logo"/>
             </div>
-        
-            <div class="icon">
-                <div id="menu-btn" class="fas fa-bars"></div>
+
+            <div class="nav-btn">
+                <div class="nav-links">
+                    <ul>
+                        <li class="nav-link" style="--i: .4s">
+                        <a href="http://localhost/Final-Project/homepage.php">Home</a>
+                        </li>
+                        <li class="nav-link" style="--i: .85s">
+                        <a href="./index.php?page=schedule">BusSchedule</a>
+                        </li>
+                        <li class="nav-link" style="--i: 1.1s">
+                        <a href="./index.php?page=home">Booking</a>
+                        </li>
+                        <li class="nav-link" style="--i: 1.35s">
+                        <a href="Donate.html">Donate</a>
+                        </li>
+                        <li class="nav-link" style="--i: 1.6s">
+                        <a href="http://localhost/Final-Project/reviews.php">Reviews</a>
+                        </li>
+                        <li class="nav-link" style="--i: 1.85s">
+                        <a href="about us.html">About</a>
+                        </li>
+                        <li class="nav-link" style="--i: 2.1s">
+                        <a href="contact.php">Contact</a>
+                        </li>
+                        <li class="nav-link" style="--i: 2.35s">
+                            <a href="#">Maintenance<i class="fas fa-caret-down"></i></a>
+
+                            <div class="dropdown">
+                                <ul>
+                                <div class="drop-down nav-user"><a href="#"><?php echo isset($_SESSION['load_user']) ?> </a>
+                                    <li class="dropdown-link">
+                                    <a href="./index.php?page=bus">Bus List</a>
+                                    </li>
+                                    <li class="dropdown-link">
+                                    <li><a href="./index.php?page=location">Location List</a>
+                                    </li>
+                                    <li class="dropdown-link">
+                                     <a href="#">User details</a><i class="fas fa-caret-down"></i></a>
+
+                                        <div class="dropdown second">
+                                            <ul>
+                                                <li class="dropdown-link">
+                                                <a href="./index.php?page=user">Users</a><i class="fas fa-caret-down"></i></a>
+                                                </li>
+                                                <li class="dropdown-link">
+                                                <a href="javascript:void(0)" id="manage_account">Manage Account</a>
+                                                </li>
+                                                <li class="dropdown-link">
+                                                    <a href="./logout.php">Logout</a>
+                                                </li>
+                                               
+                                                <div class="arrow"></div>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    
+                                    <div class="arrow"></div>
+                                </ul>
+                            </div>
+                        </li>
+                        
+                    </ul>
+                </div>
+
+              
             </div>
-        
+
+            <div class="hamburger-menu-container">
+                <div class="hamburger-menu">
+                    <div></div>
+                </div>
+            </div>
         </div>
-        <div class="title">
-            <br><br>
-            <h3>අපේක්ශාවට අත්වැලක්</h3>
-        </div>
-                           
-       
-  <script>
+    </header>
+   
+ 
+
+</body>
+
+</html>
+<script>
     $(document).ready(function(){
       var page = '<?php echo isset($_GET['page']) ? $_GET['page'] : '' ?>';
       if(page != ''){
@@ -60,4 +113,4 @@
     })
 
   </script>
-  <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+    <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>

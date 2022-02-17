@@ -25,6 +25,7 @@ header{
     background-color: #60b4df;
     width: 100%;
     z-index: 1000;
+    padding-right: 200px;
     
 }
 
@@ -51,6 +52,8 @@ body {
     margin: 0 auto;
     display: flex;
     position: relative;
+    padding-right: 350px;
+    
 }
 
 .logo-container{
@@ -67,6 +70,7 @@ body {
 
 .nav-links{
     flex: 2;
+    
 }
 
 .log-sign{
@@ -117,6 +121,7 @@ body {
 
 .nav-link{
     position: relative;
+
 }
 
 .nav-link > a{
@@ -337,9 +342,10 @@ body {
         flex: initial;
         width: 100%;
     }
+   
     .logo{
-        display:none;
-        height: 20px;
+        
+        height: 40px;
         width: 120px;
     }
     .nav-links > ul{

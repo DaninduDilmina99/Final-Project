@@ -41,9 +41,6 @@
                         <li class="nav-link" style="--i: 1.85s">
                         <a href="about us.html">About</a>
                         </li>
-                        <li class="nav-link" style="--i: 2.1s">
-                        <a href="contact.php">Contact</a>
-                        </li>
                         <li class="nav-link" style="--i: 2.35s">
                             <a href="#">Maintenance<i class="fas fa-caret-down"></i></a>
 
@@ -54,7 +51,7 @@
                                     <a href="./index.php?page=bus">Bus List</a>
                                     </li>
                                     <li class="dropdown-link">
-                                    <li><a href="./index.php?page=location">Location List</a>
+                                    <a href="./index.php?page=location">Location List</a>
                                     </li>
                                     <li class="dropdown-link">
                                      <a href="#">User details</a><i class="fas fa-caret-down"></i></a>
@@ -80,6 +77,10 @@
                                 </ul>
                             </div>
                         </li>
+                        <li class="nav-link" style="--i: 2.1s">
+                        <a href="contact.php">Contact</a>
+                        </li>
+                       
                         
                     </ul>
                 </div>

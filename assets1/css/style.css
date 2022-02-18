@@ -382,6 +382,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 768px) {
   #hero h2 {
     font-size: 28px;
+    
   }
 }
 #hero p {
@@ -392,6 +393,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (min-width: 1024px) {
   #hero p {
     width: 60%;
+    
   }
 }
 #hero .carousel-fade {
@@ -1181,12 +1183,14 @@ section {
 @media (min-width: 768px) {
   #contact .contact-address, #contact .contact-phone, #contact .contact-email {
     padding: 20px 0;
+    color:black;
   }
 }
 @media (min-width: 768px) {
   #contact .contact-phone {
     border-left: 1px solid #ddd;
     border-right: 1px solid #ddd;
+    color:black;
   }
 }
 #contact .php-email-form {

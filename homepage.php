@@ -624,7 +624,7 @@
                   <h4>Danindu Leewanage</h4>
                   <span>Undergraduate Student</span>
                   <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
+                    <a href="https://twitter.com/danindudilmina"><i class="bi bi-twitter"></i></a>
                     <a href="https://www.facebook.com/danindu.dilmina.3"><i class="bi bi-facebook"></i></a>
                     <a href="https://www.instagram.com/dani3.99/"><i class="bi bi-instagram"></i></a>
                     <a href="https://www.linkedin.com/in/danindu-dilmina-6719831a0/"><i class="bi bi-linkedin"></i></a>

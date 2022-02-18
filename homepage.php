@@ -468,7 +468,7 @@
                 <h4>Ceo &amp; Founder</h4>
                 <p>
                   <img src="assets1/img/quote-sign-left.png" class="quote-sign-left" alt="">
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                  Very usefull website hadel with easy anytime,easy to get notifications about bookings.I recommended this website.
                   <img src="assets1/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
               </div>
@@ -481,7 +481,7 @@
                 <h4>Designer</h4>
                 <p>
                   <img src="assets1/img/quote-sign-left.png" class="quote-sign-left" alt="">
-                  Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                  I don't normally write reviews but this site certainly deserves .It is easy to use and the donete payment methods are also simple.
                   <img src="assets1/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
               </div>
@@ -494,7 +494,7 @@
                 <h4>Store Owner</h4>
                 <p>
                   <img src="assets1/img/quote-sign-left.png" class="quote-sign-left" alt="">
-                  Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                  Really easy to use with friendly interface.100% recommend this site.
                   <img src="assets1/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
               </div>
@@ -507,7 +507,7 @@
                 <h4>Freelancer</h4>
                 <p>
                   <img src="assets1/img/quote-sign-left.png" class="quote-sign-left" alt="">
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                  This  website very usefull for online booking bus tickets and donate to Apeksha hospital.
                   <img src="assets1/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
               </div>
@@ -520,7 +520,7 @@
                 <h4>Entrepreneur</h4>
                 <p>
                   <img src="assets1/img/quote-sign-left.png" class="quote-sign-left" alt="">
-                  Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi cillum quid.
+                  This is the fully trusted site.it has made easy to find  my bus shedule for Apeksha hospital
                   <img src="assets1/img/quote-sign-right.png" class="quote-sign-right" alt="">
                 </p>
               </div>

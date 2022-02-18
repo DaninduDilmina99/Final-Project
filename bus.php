@@ -35,6 +35,7 @@
 	</div>
 </main>
 </section>
+
 <script>
 	$('#new_bus').click(function(){
 		uni_modal('Add New Bus','manage_bus.php')

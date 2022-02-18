@@ -6,9 +6,23 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   
   <title>අපේක්ෂාවට අත්වැලක්</title>
+  <link href="assets1/img/favicon.png" rel="icon">
+  <link href="assets1/img/apple-touch-icon.png" rel="apple-touch-icon">
 
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets1/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets1/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets1/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets1/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets1/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets1/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets1/css/style.css" rel="stylesheet">
 </head>
-
 
 <body>
 <?php session_start() ?>
@@ -87,14 +101,9 @@
       </div>
     </div>
 
-  <!-- ======= Footer ======= -->
   
 
-  <div id="preloader"></div>
-  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
-  <script src="assets/js/main.js"></script>
 
-</body>
 <script>
   window.uni_modal =  function($title='',$url='',$book = 0){
     $('#uni_modal .modal-title').html($title);
@@ -155,4 +164,5 @@
   $(document).ready(function(){
   })
 </script>
+</body>
 </html>

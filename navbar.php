@@ -8,6 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <script src="https://kit.fontawesome.com/83325a7e2a.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="stylenew.css">
+    
     <title>Responsive Navbar</title>
 </head>
 
@@ -24,8 +25,9 @@
                 <div class="nav-links">
                     <ul>
                         <li class="nav-link" style="--i: .4s">
-                        <a href="http://localhost/Final-Project/homepage.php">Home</a>
+                        <a href="homepage.php">Home</a>
                         </li>
+                       
                         <li class="nav-link" style="--i: .85s">
                         <a href="./index.php?page=schedule">BusSchedule</a>
                         </li>
@@ -38,9 +40,7 @@
                         <li class="nav-link" style="--i: 1.6s">
                         <a href="http://localhost/Final-Project/reviews.php">Reviews</a>
                         </li>
-                        <li class="nav-link" style="--i: 1.85s">
-                        <a href="about us.html">About</a>
-                        </li>
+                        
                         <li class="nav-link" style="--i: 2.35s">
                             <a href="#">Maintenance<i class="fas fa-caret-down"></i></a>
 
@@ -77,11 +77,6 @@
                                 </ul>
                             </div>
                         </li>
-                        <li class="nav-link" style="--i: 2.1s">
-                        <a href="contact.php">Contact</a>
-                        </li>
-                       
-                        
                     </ul>
                 </div>
 
@@ -98,9 +93,7 @@
    
  
 
-</body>
 
-</html>
 <script>
     $(document).ready(function(){
       var page = '<?php echo isset($_GET['page']) ? $_GET['page'] : '' ?>';
@@ -115,3 +108,7 @@
 
   </script>
     <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+    
+    </body>
+
+</html>

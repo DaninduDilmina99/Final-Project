@@ -463,8 +463,8 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets1/img/testimonial-1.jpg" class="testimonial-img" alt="">
-                <h3>Saul Goodman</h3>
+                <img src="chathuka.png" class="testimonial-img" alt="">
+                <h3>Chathuka</h3>
                 <h4>Ceo &amp; Founder</h4>
                 <p>
                   <img src="assets1/img/quote-sign-left.png" class="quote-sign-left" alt="">
@@ -476,8 +476,8 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets1/img/testimonial-2.jpg" class="testimonial-img" alt="">
-                <h3>Sara Wilsson</h3>
+                <img src="akshitha.png" class="testimonial-img" alt="">
+                <h3>Akshitha</h3>
                 <h4>Designer</h4>
                 <p>
                   <img src="assets1/img/quote-sign-left.png" class="quote-sign-left" alt="">
@@ -489,8 +489,8 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets1/img/testimonial-3.jpg" class="testimonial-img" alt="">
-                <h3>Jena Karlis</h3>
+                <img src="ravindi.png" class="testimonial-img" alt="">
+                <h3>Ravindi</h3>
                 <h4>Store Owner</h4>
                 <p>
                   <img src="assets1/img/quote-sign-left.png" class="quote-sign-left" alt="">
@@ -502,8 +502,8 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets1/img/testimonial-4.jpg" class="testimonial-img" alt="">
-                <h3>Matt Brandon</h3>
+                <img src="sathsarani.png" class="testimonial-img" alt="">
+                <h3>Sathsarani</h3>
                 <h4>Freelancer</h4>
                 <p>
                   <img src="assets1/img/quote-sign-left.png" class="quote-sign-left" alt="">
@@ -515,8 +515,8 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets1/img/testimonial-5.jpg" class="testimonial-img" alt="">
-                <h3>John Larson</h3>
+                <img src="ishan.png" class="testimonial-img" alt="">
+                <h3>Ishan</h3>
                 <h4>Entrepreneur</h4>
                 <p>
                   <img src="assets1/img/quote-sign-left.png" class="quote-sign-left" alt="">

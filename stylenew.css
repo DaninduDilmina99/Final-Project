@@ -25,7 +25,7 @@ header{
     background-color: #60b4df;
     width: 100%;
     z-index: 1000;
-    
+    padding-right: 300px;
     
 }
 
@@ -53,7 +53,7 @@ body {
     display: flex;
     position: relative;
     padding-left: 180px;
-    
+    padding-right: 200px;
 }
 
 .logo-container{
@@ -84,7 +84,7 @@ body {
    
     height: 70px;
     width: 200px;
-    padding-right: 100px;
+    
     
 }
 

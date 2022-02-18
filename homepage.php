@@ -316,14 +316,14 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
             <figure>
-              <img src="" class="img-fluid" alt="">
+              <img src="hospital2.jpeg" class="img-fluid" alt="">
               <a href="assets1/img/portfolio/app1.jpg" data-lightbox="portfolio" data-title="App 1" class="link-preview"><i class="bi bi-plus"></i></a>
-              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+              <a href="https://www.facebook.com/ApekshaHospital.ncisl/" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
             </figure>
 
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">App 1</a></h4>
-              <p>App</p>
+              <h4><a href="portfolio-details.html">අපේක්ෂාවන්ට කාරුණික වන්න</a></h4>
+              <p>මහරගම අපේක්ෂා රෝහල</p>
             </div>
           </div>
         </div>
@@ -331,14 +331,14 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets1/img/portfolio/web3.jpg" class="img-fluid" alt="">
-              <a href="assets1/img/portfolio/web3.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Web 3"><i class="bi bi-plus"></i></a>
-              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+              <img src="hospital1.jpeg" class="img-fluid" alt="">
+              <a href="hospital1.jpeg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Web 3"><i class="bi bi-plus"></i></a>
+              <a href="https://www.littlehearts.lk/" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
             </figure>
 
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Web 3</a></h4>
-              <p>Web</p>
+              <h4><a href="portfolio-details.html">පුංචි හදවත් සතුටු කරන්න</a></h4>
+              <p>Little Hearts අරමුදල</p>
             </div>
           </div>
         </div>
@@ -346,14 +346,14 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets1/img/portfolio/app2.jpg" class="img-fluid" alt="">
-              <a href="assets1/img/portfolio/app2.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="App 2"><i class="bi bi-plus"></i></a>
-              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+              <img src="hospital3.jpeg" class="img-fluid" alt="">
+              <a href="hospital3.jpeg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="App 2"><i class="bi bi-plus"></i></a>
+              <a href="https://www.facebook.com/ApekshaHospital.ncisl/" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
             </figure>
 
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">App 2</a></h4>
-              <p>App</p>
+              <h4><a href="portfolio-details.html">රසවින්දනයට හුරු කරවන්න</a></h4>
+              <p>මහරගම අපේක්ෂා රෝහල</p>
             </div>
           </div>
         </div>
@@ -361,14 +361,14 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-app">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets1/img/portfolio/app3.jpg" class="img-fluid" alt="">
-              <a href="assets1/img/portfolio/app3.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="App 3"><i class="bi bi-plus"></i></a>
-              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+              <img src="hospital4.jpeg" class="img-fluid" alt="">
+              <a href="hospital4.jpeg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="App 3"><i class="bi bi-plus"></i></a>
+              <a href="https://www.facebook.com/ApekshaHospital.ncisl/" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
             </figure>
 
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">App 3</a></h4>
-              <p>App</p>
+              <h4><a href="portfolio-details.html">වෙනසක් නොකොට ආදරය කරන්න</a></h4>
+              <p>මහරගම අපේක්ෂා රෝහල</p>
             </div>
           </div>
         </div>
@@ -376,14 +376,14 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-card">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets1/img/portfolio/card1.jpg" class="img-fluid" alt="">
-              <a href="assets1/img/portfolio/card1.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Card 1"><i class="bi bi-plus"></i></a>
-              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+              <img src="bus5.jpeg" class="img-fluid" alt="">
+              <a href="bus5.jpeg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Card 1"><i class="bi bi-plus"></i></a>
+              <a href="https://www.sltb.lk/" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
             </figure>
 
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Card 1</a></h4>
-              <p>Card</p>
+              <h4><a href="portfolio-details.html">රැකවරණය</a></h4>
+              <p>‍ශ්‍රී ලංගම බස් සේවාව </p>
             </div>
           </div>
         </div>
@@ -391,14 +391,14 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-card">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets1/img/portfolio/card3.jpg" class="img-fluid" alt="">
-              <a href="assets1/img/portfolio/card3.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Card 3"><i class="bi bi-plus"></i></a>
-              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+              <img src="bus6.png" class="img-fluid" alt="">
+              <a href="bus6.png" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Card 3"><i class="bi bi-plus"></i></a>
+              <a href="https://www.sltb.lk/" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
             </figure>
 
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Card 3</a></h4>
-              <p>Card</p>
+              <h4><a href="portfolio-details.html">සුවපහසුව‍</a></h4>
+              <p>ශ්‍රී ලංගම බස් සේවාව</p>
             </div>
           </div>
         </div>
@@ -406,14 +406,42 @@
         <div class="col-lg-4 col-md-6 portfolio-item filter-web">
           <div class="portfolio-wrap">
             <figure>
-              <img src="assets1/img/portfolio/web1.jpg" class="img-fluid" alt="">
-              <a href="assets1/img/portfolio/web1.jpg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Web 1"><i class="bi bi-plus"></i></a>
+              <img src="heart1.jpeg" class="img-fluid" alt="">
+              <a href="heart1.jpeg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Web 1"><i class="bi bi-plus"></i></a>
               <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
             </figure>
 
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">Web 1</a></h4>
-              <p>Web</p>
+              <h4><a href="portfolio-details.html">කාලය ගත කරන්න</a></h4>
+              <p>Little Hearts අරමුදල</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="bus7.jpeg" class="img-fluid" alt="">
+              <a href="bus7.jpeg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Card 3"><i class="bi bi-plus"></i></a>
+              <a href="https://www.sltb.lk/" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+            </figure>
+
+            <div class="portfolio-info">
+              <h4><a href="portfolio-details.html">සහනාධාර මිල</a></h4>
+              <p>ශ්‍රී ලංගම බස් සේවාව</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+          <div class="portfolio-wrap">
+            <figure>
+              <img src="heart9.jpeg" class="img-fluid" alt="">
+              <a href="heart9.jpeg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Web 1"><i class="bi bi-plus"></i></a>
+              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+            </figure>
+
+            <div class="portfolio-info">
+              <h4><a href="portfolio-details.html">ජීවිතයට ජීවිතයක් දෙන්න</a></h4>
+              <p>Little Hearts අරමුදල</p>
             </div>
           </div>
         </div>
@@ -427,7 +455,7 @@
       <div class="container" data-aos="fade-up">
 
         <header class="section-header">
-          <h3>Testimonials</h3>
+          <h3>Reviews</h3>
         </header>
 
         <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
@@ -506,8 +534,8 @@
     </section><!-- End Testimonials Section -->
     <section id="review" class="contact">
             <div class="contact100-form-title container">
-                <h3>Keep In Touch</h3>
-                <h2>Send A Message</h2>
+                
+                <h2>Send A Review</h2>
                     <form class="contact100-form validate-form">
 
 
@@ -565,23 +593,23 @@
       <div class="container" data-aos="fade-up">
         <div class="section-header">
           <h3>Team</h3>
-          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+          <p>A Project by a group-29 of NSBM Green University</p>
         </div>
 
         <div class="row">
 
           <div class="col-lg-3 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
-              <img src="assets1/img/team-1.jpg" class="img-fluid" alt="">
+              <img src="Kavindu.jpeg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Walter White</h4>
-                  <span>Chief Executive Officer</span>
+                  <h4>MK Lakshitha</h4>
+                  <span>Undergraduate Student</span>
                   <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
+                    <a href="https://twitter.com/KavinduLakshi14"><i class="bi bi-twitter"></i></a>
+                    <a href="https://www.facebook.com/profile.php?id=100007968407701"><i class="bi bi-facebook"></i></a>
+                    <a href="https://www.instagram.com/laksxhu_84/"><i class="bi bi-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/kavindu-lakshitha-a68734211/"><i class="bi bi-linkedin"></i></a>
                   </div>
                 </div>
               </div>
@@ -590,16 +618,16 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
-              <img src="assets1/img/team-2.jpg" class="img-fluid" alt="">
+              <img src="danie.jpeg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Sarah Jhonson</h4>
-                  <span>Product Manager</span>
+                  <h4>DD Leewanage</h4>
+                  <span>Undergraduate Student</span>
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
+                    <a href="https://www.facebook.com/danindu.dilmina.3"><i class="bi bi-facebook"></i></a>
+                    <a href="https://www.instagram.com/dani3.99/"><i class="bi bi-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/danindu-dilmina-6719831a0/"><i class="bi bi-linkedin"></i></a>
                   </div>
                 </div>
               </div>
@@ -608,16 +636,16 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="300">
-              <img src="assets1/img/team-3.jpg" class="img-fluid" alt="">
+              <img src="nimesh.jpeg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>William Anderson</h4>
-                  <span>CTO</span>
+                  <h4>Nimesh Kavinda</h4>
+                  <span>Undergraduate Student</span>
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
+                    <a href="https://www.facebook.com/nimesh.liyanage.7140"><i class="bi bi-facebook"></i></a>
+                    <a href="https://www.instagram.com/_n_im_e_s_h_/"><i class="bi bi-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/nimesh-kavinda-54435121b/"><i class="bi bi-linkedin"></i></a>
                   </div>
                 </div>
               </div>
@@ -626,15 +654,32 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="member" data-aos="fade-up" data-aos-delay="400">
-              <img src="assets1/img/team-4.jpg" class="img-fluid" alt="">
+              <img src="hashini.jpeg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Amanda Jepson</h4>
-                  <span>Accountant</span>
+                  <h4>Hashini Ravinga</h4>
+                  <span>Undergraduate Student</span>
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
+                    <a href="https://www.facebook.com/ravi.ravihansa.9"><i class="bi bi-facebook"></i></a>
                     <a href=""><i class="bi bi-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/hashini-ravinga-edandupola-52b596217/"><i class="bi bi-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6">
+            <div class="member" data-aos="fade-up" data-aos-delay="400">
+              <img src="Dulari.jpeg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Dulari Wijenayake</h4>
+                  <span>Undergraduate Student</span>
+                  <div class="social">
+                    <a href=""><i class="bi bi-twitter"></i></a>
+                    <a href="https://www.facebook.com/dularipavithra.wijenayake"><i class="bi bi-facebook"></i></a>
+                    <a href="https://www.instagram.com/dulari.wijenayake/"><i class="bi bi-instagram"></i></a>
                     <a href=""><i class="bi bi-linkedin"></i></a>
                   </div>
                 </div>
@@ -660,9 +705,9 @@
 
           <div class="col-md-4">
             <div class="contact-address">
-              <i class="bi bi-geo-alt"></i>
+              <i class="bi bi-geo-alt" ></i>
               <h3>Address</h3>
-              <address>A108 Adam Street, NY 535022, USA</address>
+              <address><a href="https://www.google.com/maps/dir/6.9307716,79.8856817/apeksha+hospital+maharagama+address/@6.884284,79.8676392,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3ae2507546e99623:0x884f7e1e67a4d49b!2m2!1d79.9203196!2d6.8372443">RWPC+V4W, Maharagama 10280</a></address>
             </div>
           </div>
 
@@ -670,7 +715,7 @@
             <div class="contact-phone">
               <i class="bi bi-phone"></i>
               <h3>Phone Number</h3>
-              <p><a href="tel:+155895548855">+1 5589 55488 55</a></p>
+              <p><a href="tel:+155895548855">+94 11 285 0253</a></p>
             </div>
           </div>
 
@@ -678,7 +723,7 @@
             <div class="contact-email">
               <i class="bi bi-envelope"></i>
               <h3>Email</h3>
-              <p><a href="mailto:info@example.com">info@example.com</a></p>
+              <p><a href="mailto:info@mc.lk">info@mc.lk</a></p>
             </div>
           </div>
 
@@ -721,46 +766,51 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-info">
-            <h3>BizPage</h3>
+            <h3><img src="img/Logo.png"></h3>
+            <style>
+              h3 img {
+                width: 200px;
+                height: 100px;
+              }
+            </style>
             <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#hero">Home</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#about">About us</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#services">Services</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#portfolio">Events</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="#review">Review</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Contact Us</h4>
-            <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+            <p><strong>Address:</strong><a href="https://www.google.com/maps/dir/6.9307716,79.8856817/apeksha+hospital+maharagama+address/@6.884284,79.8676392,13z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3ae2507546e99623:0x884f7e1e67a4d49b!2m2!1d79.9203196!2d6.8372443">
+              RWPC+V4W,  <br>
+              Maharagama 10280<br>
+              Sri Lanka <br></a>
+              <strong>Phone:</strong> <a href="tel:+155895548855">+94 11 285 0253</a><br>
+              <strong>Email:</strong> <a href="mailto:info@mc.lk">info@mc.lk</a><br>
             </p>
 
             <div class="social-links">
-              <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-              <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-              <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+              <a href="#https://twitter.com/MoH_SriLanka" class="twitter"><i class="bi bi-twitter"></i></a>
+              <a href="#https://www.facebook.com/ApekshaHospital.ncisl" class="facebook"><i class="bi bi-facebook"></i></a>
+              <a href="#https://www.instagram.com/explore/locations/1028583433/apeksha-hospital-maharagama/" class="instagram"><i class="bi bi-instagram"></i></a>
+              <a href="#https://www.linkedin.com/company/ministry-of-health-sri-lanka/" class="linkedin"><i class="bi bi-linkedin"></i></a>
             </div>
 
           </div>
 
           <div class="col-lg-3 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
+            <h4>Tell Us</h4>
             <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna veniam enim veniam illum dolore legam minim quorum culpa amet magna export quem marada parida nodela caramase seza.</p>
             <form action="" method="post">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
+              <input type="email" name="email"><input type="submit" value="Submit">
             </form>
           </div>
 
@@ -770,11 +820,11 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong>BizPage</strong>. All Rights Reserved
+        &copy; Copyright <strong>NSBM Green University</strong>. All Rights Reserved
       </div>
       <div class="credits">
       
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+        Designed by <a href="https://github.com/DaninduDilmina99/Final-Project">Group-29</a>
       </div>
     </div>
   </footer><!-- End Footer -->

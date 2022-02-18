@@ -465,7 +465,7 @@
               <div class="testimonial-item">
                 <img src="chathuka.png" class="testimonial-img" alt="">
                 <h3>Chathuka</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <h4>Tunnel Hacker</h4>
                 <p>
                   <img src="assets1/img/quote-sign-left.png" class="quote-sign-left" alt="">
                   Very usefull website hadel with easy anytime,easy to get notifications about bookings.I recommended this website.
@@ -531,7 +531,9 @@
         </div>
 
       </div>
-    </section><!-- End Testimonials Section -->
+    </section>
+    <!-- End Testimonials Section -->
+
     <section id="review" class="contact">
             <div class="contact100-form-title container">
                 
@@ -593,7 +595,7 @@
       <div class="container" data-aos="fade-up">
         <div class="section-header">
           <h3>Team</h3>
-          <p>A Project by a group-29 of NSBM Green University</p>
+          <p>A Project by a Green-Wave (group-29) of NSBM Green University</p>
         </div>
 
         <div class="row">
@@ -824,7 +826,7 @@
       </div>
       <div class="credits">
       
-        Designed by <a href="https://github.com/DaninduDilmina99/Final-Project">Group-29</a>
+        Designed by <a href="https://github.com/DaninduDilmina99/Final-Project">Green-Wave (Group-29)</a>
       </div>
     </div>
   </footer><!-- End Footer -->

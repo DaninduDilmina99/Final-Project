@@ -598,11 +598,12 @@ img.imgback:hover {
   }
 
   .contact100-form-title h2{
-      font-size: 70px;
-      font-family: 'Poppins';
+      font-size: 30px;
+      font-family: "Montserrat", sans-serif;
       color: rgb(68, 68, 68);
       line-height: 1;
       text-align: center;  
+      font-weight: 700;
 }
   
   
@@ -620,11 +621,13 @@ img.imgback:hover {
   }
   
   .label-input100 {
-    font-family: "Roboto";
+    font-family: 'Poppins';
     font-size: 15px;
-    color: #999999;
+    line-height: 1.7;
+    color: #111111;
     line-height: 1.5;
     padding-left: 5px;
+    font-weight: 700;
   }
   
   .input100 {
@@ -633,7 +636,7 @@ img.imgback:hover {
     background: transparent;
     font-family: "Roboto";
     font-size: 18px;
-    color: #555555;
+    color: #666666;
     line-height: 1.2;
     padding: 0 5px;
   }
@@ -690,7 +693,7 @@ img.imgback:hover {
     padding: 0 20px;
     min-width: 160px;
     height: 50px;
-    background-color: rgb(248, 176, 0);
+    background-color: #337ab7;
     border-radius: 25px;
     font-family: 'Poppins';
     font-size: 16px;

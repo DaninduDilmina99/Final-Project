@@ -282,11 +282,11 @@
             <h4 class="title"><a href="">Responsible consumption and production</a></h4>
             <p class="description">Ensure sustainable consumption and production patterns</p>
           </div>
-          <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="400">
+          <!-- <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="400">
             <div class="icon"><i class="bi bi-calendar4-week"></i></div>
             <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
             <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
-          </div>
+          </div> -->
 
         </div>
 

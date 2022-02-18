@@ -603,7 +603,7 @@
               <img src="Kavindu.jpeg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>MK Lakshitha</h4>
+                  <h4>Kavindu Lakshitha</h4>
                   <span>Undergraduate Student</span>
                   <div class="social">
                     <a href="https://twitter.com/KavinduLakshi14"><i class="bi bi-twitter"></i></a>
@@ -621,7 +621,7 @@
               <img src="danie.jpeg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>DD Leewanage</h4>
+                  <h4>Danindu Leewanage</h4>
                   <span>Undergraduate Student</span>
                   <div class="social">
                     <a href=""><i class="bi bi-twitter"></i></a>

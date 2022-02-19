@@ -290,7 +290,7 @@
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
             <div class="icon"><i class="bi bi-brightness-high"></i></div>
             <h4 class="title"><a href="">Responsible consumption and production</a></h4>
-            <p class="description">Ensure sustainable consumption and production patterns</p>
+            <p class="description">For those who are directly employed created through this service assumes the responsibility of the user. It also assumes a self-responsibility to protect the clients who use this service as well as the properties. This will enable both parties to provide and received quality service.</p>
           </div>
           <!-- <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="400">
             <div class="icon"><i class="bi bi-calendar4-week"></i></div>

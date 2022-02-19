@@ -280,7 +280,7 @@
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
             <div class="icon"><i class="bi bi-bar-chart"></i></div>
             <h4 class="title"><a href="">Industry, Innovation, and Infrastructure</a></h4>
-            <p class="description">Build resilient infrastructure, promote inclusive and sustainable industrialization, and foster innovation</p>
+            <p class="description">This bus service has already provided direct and indirect employment opportunities and service we are going to implement will provide some relief to those who are engaged in those jobs. In addition, a number of innovations and infrastructure are being built around it.</p>
           </div>
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
             <div class="icon"><i class="bi bi-binoculars"></i></div>

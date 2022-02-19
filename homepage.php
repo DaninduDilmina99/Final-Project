@@ -143,8 +143,9 @@
           <div class="carousel-item" style="background-image: url(2.jpeg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">Magnam aliquam quaerat</h2>
-                <p class="animate__animated animate__fadeInUp">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <h2 class="animate__animated animate__fadeInDown">මගීන්ගේ සුවපහසුව</h2>
+                <p class="animate__animated animate__fadeInUp">              "අපේක්ෂාවට අත්වැලක්" මඟින්  බොහෝදුර බැහැර සිට පැමිණෙන රෝගීන්ට සහනයක් වියහැක. බස් රථ ගමන් කරන නිවැරදි වේලාවන් දැනගත හැකිවා සේම බස් රථ වල ආසන වෙන් කරවා ගැනීම්ද කල්තියා සිදු කර ගත හැක. ඔවුන්ට තම නිවසට ළඟම ස්ථානයේ සිට අපේක්ෂා රෝහල වෙතටම ගමන් පහසුකම් සලසා දී ඇත. ඇතැම් බස් රථ වායු සමනය කර ඇති අතර ඇතැම් බස්‍ රථ වල රෝගීන්ට අවශ්‍ය පරිදි ශීතකරණ පවා ඇත. එම බස් රථ වල ආසන වෙන් කරවා ගැනීම මෙම වෙබ් අඩවිය මඟින් පහසුවෙන් සිදු කර ගත හැක. 
+                තවද පරිත්‍යාගශීලීන්ගෙන් හිසකෙස් හා රුධිරය දන්දීම සඳහා ලියාපදිංචි කර ඒවාද පිළිකා රෝගීන්ගේ අවශ්‍යතා පරිදි අපේක්ෂා රෝහලට ලබාදීමට කටයුතු කරයි.</p>
                 <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
               </div>
             </div>
@@ -427,7 +428,7 @@
             </figure>
 
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">සහනාධාර මිල</a></h4>
+              <h4><a href="portfolio-details.html">සහනදායී මිල</a></h4>
               <p>ශ්‍රී ලංගම බස් සේවාව</p>
             </div>
           </div>

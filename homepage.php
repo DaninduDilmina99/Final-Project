@@ -175,19 +175,19 @@
           <div class="col-lg-4 box">
             <i class="bi bi-briefcase"></i>
             <h4 class="title"><a href="donate.html">Donate</a></h4>
-            <p class="description">පිළිකා රෝගයෙන් පෙළෙන අපේම සහෝදර හදවත් වෙත මනුශ්‍යත්වයේ දෑත් දිගුකරමින් ඔවුන්ගේ  ඖෂධ ලබාගැනීම හා වෙනත් සනීපාරක්ෂක කටයුතු උදෙසා ඔබට ලබාදිය් හැකි සියලුම මූල්‍යමය ආධාට හා හිසකෙස් දන්දීමේ කටයුතු මෙමගින් සිදුකල හැක</p>
+            <p class="description">පිළිකා රෝගයෙන් පෙළෙන අපේම සහෝදර හදවත් වෙත මනුශ්‍යත්වයේ දෑත් දිගුකරමින් ඔවුන්ගේ  ඖෂධ ලබාගැනීම හා වෙනත් සනීපාරක්ෂක කටයුතු උදෙසා ඔබට ලබාදිය හැකි සියලුම මූල්‍යමය ආධාර හා හිසකෙස් දන්දීමේ කටයුතු මෙමගින් සිදුකල හැක.ඔබගේ වටිනා ආධාරයෙන් පිළිකා රෝගයෙන් පෙළෙන රෝගියෙකුගේ ජීවිතය බේරාගැනීමට අපට හැක. </p>
           </div>
 
           <div class="col-lg-4 box box-bg">
             <i class="bi bi-card-checklist"></i>
             <h4 class="title"><a href="index.php?page=home">Booking</a></h4>
-            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+            <p class="description"></p>
           </div>
 
           <div class="col-lg-4 box">
             <i class="bi bi-binoculars"></i>
             <h4 class="title"><a href="index.php?page=schedule">Bus-Schedule</a></h4>
-            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+            <p class="description">අපේක්ෂාවට අත්වැලක් ව්‍යාපෘතිය යටතේ ඇති මෙම පහසුකම මගින් තම ප්‍රතිකාර සඳහා හා රෝගීන් බැලීමට යාම වෙනුවෙන් සිදුකරන ප්‍රවාහන සේවයේ බස් ගමන්වාර කාලසටහන සහ බස් ගමන්වාර හෝ වෙනත් තොරතුරු ලබා ගැනීමට අවශ්‍ය රියදුරු මහතුන්ගේ දුරකථන අංකද දක්වා ඇත.</p>
           </div>
 
         </div>

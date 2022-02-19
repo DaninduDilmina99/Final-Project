@@ -220,9 +220,7 @@
                 <div class="icon"><i class="bi bi-bar-chart"></i></div>
               </div>
               <h2 class="title"><a href="#">Our Mission</a></h2>
-              <p>
-                Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-              </p>
+              <p>ශ්‍රී ලංකා ගමනාගමන මණ්ඩලය විසින් අපේක්ෂා රෝහල මූලිකව පවත්වාගෙන යන  බස් රථ සේවාව හා එකව දුශ්කර පලාත් වල සිට අපේක්ෂා රෝහල වෙත පැමිණෙන ජනතාවගේ කාලය ශ්‍රමය ඉතිරි කිරීම මෙන්ම  ලිට්ල් හාර්ට්ස් ව්‍යාපෘතිය සමඟින් එක්ව ප්‍රතිකාර ලබමින් සිටින බාල මහලු සියලු දෙනාට අවශ්‍ය පහසුකම් සලසමින්  අපේක්ෂාවේ දෑත් දිගු කිරීමයි.</p>
             </div>
           </div>
 
@@ -246,9 +244,7 @@
                 <div class="icon"><i class="bi bi-calendar4-week"></i></div>
               </div>
               <h2 class="title"><a href="#">Our Vision</a></h2>
-              <p>
-                Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet.
-              </p>
+              <p>අපේක්ෂා රෝහල හා සම්බන්ධිත ආයතන සහ ව්‍යාපෘති එක් තැනකට එක්කාසු කර එකම තැනකින් වඩාත් ඵලදායි සහ කාර්යක්ෂම සේවාවක් ජනතාවට ලබාදීම.</p>
             </div>
           </div>
 

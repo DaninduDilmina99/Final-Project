@@ -275,7 +275,7 @@
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
             <div class="icon"><i class="bi bi-card-checklist"></i></div>
             <h4 class="title"><a href="">Affordable and clean energy</a></h4>
-            <p class="description">Ensure access to affordable, reliable, sustainable, and modern energy for all</p>
+            <p class="description">The use of a single bus can alleviate some of the problem of the patient coming to the hospital from a distant area due to the high fuel consumption and pollution caused by private vehicles.</p>
           </div>
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
             <div class="icon"><i class="bi bi-bar-chart"></i></div>

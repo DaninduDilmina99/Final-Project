@@ -35,6 +35,7 @@ body {
     width: 100%;
     background: url('busfinal.jpeg') ;
     overflow: hidden;
+    background-size: cover;
 }
 
 .overlay{

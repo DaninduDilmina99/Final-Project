@@ -237,7 +237,7 @@ h1, h2, h3, h4, h5, h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #fff;
+  color: rgb(255, 253, 253);
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -278,15 +278,16 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 15px;
   left: 15px;
   padding: 10px 0;
-  background-color: #fff;
+  background-color: rgb(51, 51, 51);
   overflow-y: auto;
   transition: 0.3s;
 }
 .navbar-mobile a, .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #333333;
+  color: #fcfafa;
 }
+
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
   color: #337ab7;
 }

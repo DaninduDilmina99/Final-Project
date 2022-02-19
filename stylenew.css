@@ -35,6 +35,7 @@ body {
     width: 100%;
     background: url('busfinal.jpeg') ;
     overflow: hidden;
+    background-size: cover;
 }
 
 .overlay{
@@ -52,8 +53,8 @@ body {
     margin: 0 auto;
     display: flex;
     position: relative;
-    padding-left: 180px;
-    padding-right: 200px;
+    padding-left: 70px;
+    padding-right: 20px;
 }
 
 .logo-container{
@@ -106,7 +107,7 @@ body {
 
 .btn.solid, .btn.transparent:hover{
     background-color: #fff;
-    color: #69bde7;
+    color: #337ab7;
 }
 
 .btn.transparent, .btn.solid:hover{
@@ -320,7 +321,7 @@ body {
         top: 3rem;
         left: 0;
         width: 100%;
-        background-color: #69bde7;
+        background-color: #337ab7;
         flex-direction: column;
         align-items: center;
         justify-content: space-between;
@@ -413,7 +414,7 @@ body {
 
     .arrow{
         z-index: 1;
-        background-color: #69bde7;
+        background-color: #337ab7;
         left: 10%;
         transform: scale(1.1) rotate(45deg);
         transition: .5s;

@@ -102,8 +102,9 @@
           <div class="carousel-item active" style="background-image: url(4.jpeg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">We are professional</h2>
-                <p class="animate__animated animate__fadeInUp">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                <h2 class="animate__animated animate__fadeInDown">අපේක්ෂාවට අත්වැලක්</h2>
+                <p class="animate__animated animate__fadeInUp">   ජීවිතය යදින පිළිකා රෝගීන්ගේ සුවසෙත උදෙසා "අපේක්ෂාවට අත්වැලක්" නමින් අප ගෙන යන ව්‍යාපෘතිය වචනයේ පරිසමාප්ත අර්ථයෙන්ම ඔවුන් සමඟ අත්වැල් බැඳගනිමින් ඔවුන්ගේ පහසුව උදෙසා සිදුකරන්නකි. එමඟින් සරණක් අවැසි රෝගීන්ට සරණක් වීම පිණිස ලබාදෙන ප්‍රවාහන සේවය පිළිබඳව නිවැරදි තොරතුරු ලබාදීමට අපි සූදානමින් සිටිමු. බස්‍ රථ ගමන් කරන නිවැරදි දිනයන්, වේලාවන්, ගමනාරම්භක ස්ථානය සහ ගමනාන්තය මෙන්ම බස් රථ ආසන වෙන්කර තබා ගැනීමත් මෙමඟින් සිදුකළ හැකිය.
+                    තවද, බොහෝ පරිත්‍යාගශීලීන්ට අවස්ථාවක් උදා කරමින් හිසකෙස් දන්දීම්, රුධිරය දන්දීම් සඳහා ලියාපදිංචි වීම අපගේ මෙම වෙබ් අඩවිය මඟින් සිදු කරගත හැක. ඉතින්... මෙම පිළිකා රකුසා බිලිගත් පුංචි මල් කැකුළු වැනි දරුවන්ටත්, අපගේම සහෝදර සහෝදරියන්ටත්, මවු-පියවරුන්ටත්, ඔබගේ හිසකෙස්, රුධිරය දන්දී ඔබගේ යුතුකම මැනවින් ඉටු කරනු ඇතැයි අපි ද අපේක්ෂාවෙන් යුතුව බලා සිටින්නෙමු.</p>
                 <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
               </div>
             </div>
@@ -132,9 +133,9 @@
           <div class="carousel-item" style="background-image: url(3.jpeg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">Nam libero tempore</h2>
-                <p class="animate__animated animate__fadeInUp">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum.</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+                <h2 class="animate__animated animate__fadeInDown">මහරගම අපේක්ෂා රෝහල</h2>
+                <p class="animate__animated animate__fadeInUp">පිළිකා රෝගයෙන් අසරණ වූ ජනතාවට  හව්හරණක් ලබාදීමට මහරගම අපේක්ෂා රෝහල කටයුතු කරයි. ඔවුන්ට ප්‍රතිකාර ලබාදීමත්, ඒ සඳහා අවශ්‍ය කටයුතු සිදු කිරීමත්, නේවාසික ප්‍රතිකාර ලබාදීමත් අපේක්ෂා රෝහල මඟින් සිදුවේ. මෙම රෝහල පිළිකා රෝගය වැළඳි පුංචි මල් කැකුළු වලටත් නැවත ජීවය ලබාදීමට කටයුතු කරන රෝහලකි. බොහෝ අසාධ්‍ය රෝගීන් පවා සුවපත් කළ සුව විමනක් ලෙස මෙය දැක්විය හැකිය. ශ්‍රී ලංකාවේ වර්තමානයේ පවතින හොඳම සහ නවීනතම රෝහල ලෙසද අපේක්ෂා රෝහල හඳුන්වා දිය හැකිය.</p>
+                <a href="#portfolio" class="btn-get-started scrollto animate__animated animate__fadeInUp">Events</a>
               </div>
             </div>
           </div>
@@ -142,9 +143,10 @@
           <div class="carousel-item" style="background-image: url(2.jpeg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">Magnam aliquam quaerat</h2>
-                <p class="animate__animated animate__fadeInUp">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+                <h2 class="animate__animated animate__fadeInDown">මගීන්ගේ සුවපහසුව</h2>
+                <p class="animate__animated animate__fadeInUp">"අපේක්ෂාවට අත්වැලක්" මඟින්  බොහෝදුර බැහැර සිට පැමිණෙන රෝගීන්ට සහනයක් වියහැක. බස් රථ ගමන් කරන නිවැරදි වේලාවන් දැනගත හැකිවා සේම බස් රථ වල ආසන වෙන් කරවා ගැනීම්ද කල්තියා සිදු කර ගත හැක. ඔවුන්ට තම නිවසට ළඟම ස්ථානයේ සිට අපේක්ෂා රෝහල වෙතටම ගමන් පහසුකම් සලසා දී ඇත. ඇතැම් බස් රථ වායු සමනය කර ඇති අතර ඇතැම් බස්‍ රථ වල රෝගීන්ට අවශ්‍ය පරිදි ශීතකරණ පවා ඇත. එම බස් රථ වල ආසන වෙන් කරවා ගැනීම මෙම වෙබ් අඩවිය මඟින් පහසුවෙන් සිදු කර ගත හැක. 
+                තවද පරිත්‍යාගශීලීන්ගෙන් හිසකෙස් හා රුධිරය දන්දීම සඳහා ලියාපදිංචි කර ඒවාද පිළිකා රෝගීන්ගේ අවශ්‍යතා පරිදි අපේක්ෂා රෝහලට ලබාදීමට කටයුතු කරයි.</p>
+                <a href="index.php?page=schedule" class="btn-get-started scrollto animate__animated animate__fadeInUp">Bus-Schedule</a>
               </div>
             </div>
           </div>
@@ -426,7 +428,7 @@
             </figure>
 
             <div class="portfolio-info">
-              <h4><a href="portfolio-details.html">සහනාධාර මිල</a></h4>
+              <h4><a href="portfolio-details.html">සහනදායී මිල</a></h4>
               <p>ශ්‍රී ලංගම බස් සේවාව</p>
             </div>
           </div>
@@ -465,7 +467,7 @@
               <div class="testimonial-item">
                 <img src="chathuka.png" class="testimonial-img" alt="">
                 <h3>Chathuka</h3>
-                <h4>Ceo &amp; Founder</h4>
+                <h4>Tunnel Hacker</h4>
                 <p>
                   <img src="assets1/img/quote-sign-left.png" class="quote-sign-left" alt="">
                   Very usefull website hadel with easy anytime,easy to get notifications about bookings.I recommended this website.
@@ -531,7 +533,9 @@
         </div>
 
       </div>
-    </section><!-- End Testimonials Section -->
+    </section>
+    <!-- End Testimonials Section -->
+
     <section id="review" class="contact">
             <div class="contact100-form-title container">
                 
@@ -593,7 +597,7 @@
       <div class="container" data-aos="fade-up">
         <div class="section-header">
           <h3>Team</h3>
-          <p>A Project by a group-29 of NSBM Green University</p>
+          <p>A Project by a Green-Wave (group-29) of NSBM Green University</p>
         </div>
 
         <div class="row">
@@ -698,7 +702,7 @@
 
         <div class="section-header">
           <h3>Contact Us</h3>
-          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+          <p>If you have any questions or queries a member of Green-Wave will be happy to help.<br> Feel free to contact us by telephone or email and we will be sure to get back to you soon as possible.</</p>
         </div>
 
         <div class="row contact-info">
@@ -808,7 +812,7 @@
 
           <div class="col-lg-3 col-md-6 footer-newsletter">
             <h4>Tell Us</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna veniam enim veniam illum dolore legam minim quorum culpa amet magna export quem marada parida nodela caramase seza.</p>
+            <p>Looking for a quick answer to your question?<br>Check out our FAQs.<br>How would you like us to get back to you.*</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Submit">
             </form>
@@ -824,7 +828,7 @@
       </div>
       <div class="credits">
       
-        Designed by <a href="https://github.com/DaninduDilmina99/Final-Project">Group-29</a>
+        Designed by <a href="https://github.com/DaninduDilmina99/Final-Project">Green-Wave (Group-29)</a>
       </div>
     </div>
   </footer><!-- End Footer -->

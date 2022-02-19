@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Home Page</title>
+        <title>Contact Page</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="author" content="Cemre Tellioğlu Tunçay">
@@ -23,12 +23,13 @@
         <link rel="stylesheet" href="css/new.css">
         <link rel="stylesheet" href="css/style.css">
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
-    <title>Document</title>
+   
     <link rel="stylesheet" href="style2.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css" integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css" integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous">
 </head>
 <body>
+
 <header class="top">
                   <div class="fixedArea">
 					<div class="row">
@@ -75,7 +76,7 @@
                             <li class="nav-item"><a href="./index.php?page=home" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Booking</a></li>
                             <li class="nav-item"><a href="Donate.html" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Donate</a></li>
                             <li class="nav-item"><a href="http://localhost/Final-Project/reviews.php" class="active nav-link text-uppercase font-weight-bold js-scroll-trigger">Review</a></li>
-                            <li class="nav-item"><a href="about us.html" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">About</a></li>
+             
                             <li class="nav-item"><a href="contact.php" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Contact</a></li>
 
 
@@ -90,10 +91,11 @@
                   </div>
 			</div>
 		</header>
-    <section class="contact">
+    <section class="contact" >
+        
         <div class="content">
-            <h2>Contact Us</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque facilis quo quas minus, ratione minima consequatur fuga pariatur eius. Consequatur, laborum doloremque ab odit eveniet dolorem numquam perspiciatis delectus quam.</p>
+            <h2>Contact Us</h2><br><br>
+            <p>If you have any questions or queries a member of Green-Wave will be happy to help. Feel free to contact us by telephone or email and we will be sure to get back to you soon as possible.</p>>
 
         </div>
 
@@ -103,7 +105,7 @@
                     <div class="icon"></div>
                         <div class="text">
                             <h3>Address</h3>
-                            <p>no 08 <br>absd efgh <br>matara</p>
+                            <p><a href="https://www.google.com/maps/dir//navinna+bus+stand+contact+number/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3ae25ba5400de9db:0xe91f447c99285b83?sa=X&ved=2ahUKEwja1vDZmYv2AhULS2wGHRmKCIEQ9Rd6BAgHEAM">Navinna Bus Stop,<br> Colombo - Batticaloa Hwy,<br> Maharagama 1028</a></p>
                         </div>
                     
                     
@@ -112,7 +114,7 @@
                     <div class="icon"></div>
                         <div class="text">
                             <h3>Phone</h3>
-                            <p>0715455656</p>
+                            <p>+94 11 285 0331</p>
                         </div>
                     
                     
@@ -121,7 +123,7 @@
                     <div class="icon"></div>
                         <div class="text">
                             <h3>Email</h3>
-                            <p>nimesh@gmail.com</p>
+                            <p>info@sltb.lk</p>
                         </div>
                     
                     

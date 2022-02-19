@@ -173,7 +173,7 @@
           <div class="col-lg-4 box">
             <i class="bi bi-briefcase"></i>
             <h4 class="title"><a href="donate.html">Donate</a></h4>
-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+            <p class="description">පිළිකා රෝගයෙන් පෙළෙන අපේම සහෝදර හදවත් වෙත මනුශ්‍යත්වයේ දෑත් දිගුකරමින් ඔවුන්ගේ  ඖෂධ ලබාගැනීම හා වෙනත් සනීපාරක්ෂක කටයුතු උදෙසා ඔබට ලබාදිය් හැකි සියලුම මූල්‍යමය ආධාට හා හිසකෙස් දන්දීමේ කටයුතු මෙමගින් සිදුකල හැක</p>
           </div>
 
           <div class="col-lg-4 box box-bg">

@@ -135,7 +135,7 @@
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">මහරගම අපේක්ෂා රෝහල</h2>
                 <p class="animate__animated animate__fadeInUp">පිළිකා රෝගයෙන් අසරණ වූ ජනතාවට  හව්හරණක් ලබාදීමට මහරගම අපේක්ෂා රෝහල කටයුතු කරයි. ඔවුන්ට ප්‍රතිකාර ලබාදීමත්, ඒ සඳහා අවශ්‍ය කටයුතු සිදු කිරීමත්, නේවාසික ප්‍රතිකාර ලබාදීමත් අපේක්ෂා රෝහල මඟින් සිදුවේ. මෙම රෝහල පිළිකා රෝගය වැළඳි පුංචි මල් කැකුළු වලටත් නැවත ජීවය ලබාදීමට කටයුතු කරන රෝහලකි. බොහෝ අසාධ්‍ය රෝගීන් පවා සුවපත් කළ සුව විමනක් ලෙස මෙය දැක්විය හැකිය. ශ්‍රී ලංකාවේ වර්තමානයේ පවතින හොඳම සහ නවීනතම රෝහල ලෙසද අපේක්ෂා රෝහල හඳුන්වා දිය හැකිය.</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+                <a href="#portfolio" class="btn-get-started scrollto animate__animated animate__fadeInUp">Events</a>
               </div>
             </div>
           </div>
@@ -144,9 +144,9 @@
             <div class="carousel-container">
               <div class="container">
                 <h2 class="animate__animated animate__fadeInDown">මගීන්ගේ සුවපහසුව</h2>
-                <p class="animate__animated animate__fadeInUp">              "අපේක්ෂාවට අත්වැලක්" මඟින්  බොහෝදුර බැහැර සිට පැමිණෙන රෝගීන්ට සහනයක් වියහැක. බස් රථ ගමන් කරන නිවැරදි වේලාවන් දැනගත හැකිවා සේම බස් රථ වල ආසන වෙන් කරවා ගැනීම්ද කල්තියා සිදු කර ගත හැක. ඔවුන්ට තම නිවසට ළඟම ස්ථානයේ සිට අපේක්ෂා රෝහල වෙතටම ගමන් පහසුකම් සලසා දී ඇත. ඇතැම් බස් රථ වායු සමනය කර ඇති අතර ඇතැම් බස්‍ රථ වල රෝගීන්ට අවශ්‍ය පරිදි ශීතකරණ පවා ඇත. එම බස් රථ වල ආසන වෙන් කරවා ගැනීම මෙම වෙබ් අඩවිය මඟින් පහසුවෙන් සිදු කර ගත හැක. 
+                <p class="animate__animated animate__fadeInUp">"අපේක්ෂාවට අත්වැලක්" මඟින්  බොහෝදුර බැහැර සිට පැමිණෙන රෝගීන්ට සහනයක් වියහැක. බස් රථ ගමන් කරන නිවැරදි වේලාවන් දැනගත හැකිවා සේම බස් රථ වල ආසන වෙන් කරවා ගැනීම්ද කල්තියා සිදු කර ගත හැක. ඔවුන්ට තම නිවසට ළඟම ස්ථානයේ සිට අපේක්ෂා රෝහල වෙතටම ගමන් පහසුකම් සලසා දී ඇත. ඇතැම් බස් රථ වායු සමනය කර ඇති අතර ඇතැම් බස්‍ රථ වල රෝගීන්ට අවශ්‍ය පරිදි ශීතකරණ පවා ඇත. එම බස් රථ වල ආසන වෙන් කරවා ගැනීම මෙම වෙබ් අඩවිය මඟින් පහසුවෙන් සිදු කර ගත හැක. 
                 තවද පරිත්‍යාගශීලීන්ගෙන් හිසකෙස් හා රුධිරය දන්දීම සඳහා ලියාපදිංචි කර ඒවාද පිළිකා රෝගීන්ගේ අවශ්‍යතා පරිදි අපේක්ෂා රෝහලට ලබාදීමට කටයුතු කරයි.</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+                <a href="index.php?page=schedule" class="btn-get-started scrollto animate__animated animate__fadeInUp">Bus-Schedule</a>
               </div>
             </div>
           </div>
@@ -702,7 +702,7 @@
 
         <div class="section-header">
           <h3>Contact Us</h3>
-          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+          <p>If you have any questions or queries a member of Green-Wave will be happy to help.<br> Feel free to contact us by telephone or email and we will be sure to get back to you soon as possible.</</p>
         </div>
 
         <div class="row contact-info">
@@ -812,7 +812,7 @@
 
           <div class="col-lg-3 col-md-6 footer-newsletter">
             <h4>Tell Us</h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna veniam enim veniam illum dolore legam minim quorum culpa amet magna export quem marada parida nodela caramase seza.</p>
+            <p>Looking for a quick answer to your question?<br>Check out our FAQs.<br>How would you like us to get back to you.*</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Submit">
             </form>

@@ -270,7 +270,7 @@
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="100">
             <div class="icon"><i class="bi bi-briefcase"></i></div>
             <h4 class="title"><a href="">Good health and well-being</a></h4>
-            <p class="description">Ensuring people live healthy lives can cut child mortality and raise life expectancy</p>
+            <p class="description">This is very important for the physical health as well as the mental health of the patients as they do not have to get on and off the buses as they can reserve seats on the buses before going to the hospital for their treatment.</p>
           </div>
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
             <div class="icon"><i class="bi bi-card-checklist"></i></div>

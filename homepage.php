@@ -78,7 +78,7 @@
                 </li>
               </ul>
             </li>
-              <li><a class="nav-link  " href="Donate.html">Donate</a></a></li>
+              <li><a class="nav-link  " href="Donate.php">Donate</a></a></li>
             
               <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
             </ul>
@@ -113,9 +113,9 @@
           <div class="carousel-item" style="background-image: url(img/bus.jpeg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">At vero eos et accusamus</h2>
-                <p class="animate__animated animate__fadeInUp">Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+                <h2 class="animate__animated animate__fadeInDown">බස්රථ සේවාව</h2>
+                <p class="animate__animated animate__fadeInUp">අපේක්ෂාවට අත්වැලක් වෙබ් පිටුව තුළින් ලබා ගතහැකි විශේෂිත වූ සේවාවක් ලෙස මෙම බස් රථ සේවාව හදුන්වා දිය හැක. දිනපතා දිවයිනේ නන් දෙසින් බොහෝ පිරිසක් අපේක්ෂා රෝහලට ප්‍රතිකාර සදහා පැමිණෙති. ඒ නිසාවෙන්ම ශ්‍රී ලංකා ගමනාගමන මණ්ඩලය විසින් පිලිකා රෝගීන්ට මුල් තැන දෙමින් සුවිශේෂ වූ බස් රථ සේවාවක් හදුන්වා දී ඇත. එමගින් බොහෝ වියපැහැදම් දරා කුලී රථ ලබා නොගෙන ඉතා පහසුවෙන් හා සාධාරණ මුදලකට ප්‍රවාහන පහසුකම් සැලසී ඇත. තවද එම බස් රථ සේවාව තුළ ශීතකරණ පහසුකම්, රූපවාහිනී පහසුකම් ආදී නවීන පහසුකම් සහිත බස් රථ ද ඇත. එම බස් රථ සේවාව වඩාත් ඵලදායි සහ කාර්යක්ෂම සේවාවක් කිරීමට මෙම වෙබ් අඩවිය තුලින් කටයුතු සලසා ඇත. එහි දී ඔබට ඔබගේ ගමනාන්තයට අදාළ බස් රථයේ ආසන වෙන්කර ගැනීමේ පහසුකම  සැලසී ඇත.</p>
+                <a href="index.php?page=home" class="btn-get-started scrollto animate__animated animate__fadeInUp">Booking</a>
               </div>
             </div>
           </div>
@@ -123,9 +123,13 @@
           <div class="carousel-item" style="background-image: url(5.jpeg)">
             <div class="carousel-container">
               <div class="container">
-                <h2 class="animate__animated animate__fadeInDown">Temporibus autem quibusdam</h2>
-                <p class="animate__animated animate__fadeInUp">Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt omnis iste natus error sit voluptatem accusantium.</p>
-                <a href="#featured-services" class="btn-get-started scrollto animate__animated animate__fadeInUp">Get Started</a>
+                <h2 class="animate__animated animate__fadeInDown">ජීවිතයට ජීවිතයක් දෙන්න</h2>
+                <p class="animate__animated animate__fadeInUp">
+ඔබට ඇති නමුත් තවකෙකුට නැති දෙයක් ලබාදී ඒ මුහුණුවල සුන්දර සිනහවක් ඇදීමට  ඔබත් කැමතිද?<br>
+එසේනම් ඔබට මිල මුදල් ව්‍යිද්‍ය උපකරණ, ආහාර පාන, පොත් පත්, කුඩා දරුවන්ට සෙල්ලම් බඩු  ආදී ද්‍රව්‍ය  වලින් මෙන්ම කිසිදු  වියපැහැදමකින් තොරව ද මෙම පිනැති කටයුත්තට සහභාගී විය හැක. 
+ඔබට දිගු වරලසක් තිබේ නම් ඔබ ලංකාවේ කොහේ සිටියත් ඔබගේ ප්‍රදේශයේ පිලිකා භාරය හා සම්බන්ධ රූපලාවණ්‍යාගාරයකට ගොස් ඔබගේ කේශ පරිත්‍යාග කිරීමේ හැකියාව ඇත.
+අසරණ හදවත් සතුටු කිරීමට ඔබට හැකි පමණින් අප හා සම්බන්ධ වන්න.</p>
+                <a href="Donate.php" class="btn-get-started scrollto animate__animated animate__fadeInUp">Donate</a>
               </div>
             </div>
           </div>
@@ -200,7 +204,11 @@
 
         <header class="section-header">
           <h3>About Us</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          <p>අපේක්ෂාවට අත්වැලක්  ව්‍යාපෘතිය සමඟින්  ශ්‍රී ලංකා ගමනාගමන මණ්ඩලය , මහරගම අපේක්ෂා රෝහල හා ලිට්ල් හාර්ට්ස් ව්‍යාපෘතිය අත්වැල් බැදගෙන සිටී. 
+මෙහිදී ශ්‍රී ලංකා ගමනාගමන මණ්ඩලය විසින් මහරගම අපේක්ෂා රෝහලටත් නැවත අපේක්ෂා රෝහලේ සිට  රෝගීන්ගේ ගමනාන්ත දක්වා පහසුවෙන් ගමන් කිරීමට අවශ්‍ය සුවිශේෂ බස් රථ සේවාවක් හදුන්වා දී ඇත.
+තවද  ලිට්ල් හාර්ට්ස් ව්‍යාපෘතිය යනු පිලිකා සහ හදවත් රෝගයෙන් පීඩා විදින කුඩා දරුවන් හට අවශ්‍ය පහසුකම් සැලසීමට පවත්වාගෙන යන අරමුදලකි.
+මෙම අපේක්ෂාවට අත්වැලක් ව්‍යාපෘතිය තුළින්  ඔබට එම බස් රථ සේවාව මෙන්ම ලිට්ල් හාර්ට්ස් ව්‍යාපෘතියට අරමුදල් සැපයීමත්  හිසකෙස් දන්දීම පිලිබදව තොරතුරු දැනගැනීම ආදී පහසුකම් සැලසේ.
+</p>
         </header>
 
         <div class="row about-cols">

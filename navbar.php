@@ -8,7 +8,7 @@
     <script src="https://kit.fontawesome.com/83325a7e2a.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="stylenew.css">
     
-    <title>Responsive Navbar</title>
+    <title></title>
 </head>
 
 <body>
@@ -34,7 +34,7 @@
                         <a href="./index.php?page=home">Booking</a>
                         </li>
                         <li class="nav-link" style="--i: 1.35s">
-                        <a href="Donate.html">Donate</a>
+                        <a href="Donate.php">Donate</a>
                         </li>
                         <li class="nav-link" style="--i: 1.6s">
                         <a href="http://localhost/Final-Project/reviews.php">Reviews</a>

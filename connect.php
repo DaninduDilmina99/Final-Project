@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?php
 
 //defining host
@@ -8,39 +7,16 @@ $username = "root";
 //password
 $password = "";
 //database
-$database = "blogapp";
+$database = "Donate";
 
-$connect = mysqli_connect($host, $username, $password, $database);
+$conn = mysqli_connect($host, $username, $password, $database);
 
-if(!$connect){
-    die("Database Connection Fail" . mysqli_error($connect));
+if(!$conn){
+    die("Database Connection Fail" .mysqli_error($conn));
 }
 else{
     echo "Database Connection Success!!";
 }
 
 
-=======
-<?php
-
-//defining host
-$host = "localhost";
-//username
-$username = "root";
-//password
-$password = "";
-//database
-$database = "blogapp";
-
-$connect = mysqli_connect($host, $username, $password, $database);
-
-if(!$connect){
-    die("Database Connection Fail" . mysqli_error($connect));
-}
-else{
-    echo "Database Connection Success!!";
-}
-
-
->>>>>>> 5c33266cc14d120b93ca1590506c662732c9eae7
 ?>

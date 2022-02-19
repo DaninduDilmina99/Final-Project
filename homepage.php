@@ -285,7 +285,7 @@
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
             <div class="icon"><i class="bi bi-binoculars"></i></div>
             <h4 class="title"><a href="">Sustainable cities and communities</a></h4>
-            <p class="description">Make cities and human settlements inclusive, safe, resilient, and sustainable</p>
+            <p class="description">This service connects remote areas and the suburbs of Colombo to create a better environment for patients and others visiting the hospital and to reach safer destinations safely.</p>
           </div>
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
             <div class="icon"><i class="bi bi-brightness-high"></i></div>

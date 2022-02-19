@@ -1,0 +1,38 @@
+<<<<<<< HEAD
+body {
+    background-color:#0d1219;
+}
+
+#card-header{
+    background-color: #0d1219;
+    color: #fff;
+}
+
+#card-body{
+    background-color: #0d1219;
+    color: #fff;
+}
+
+#card-footer{
+    background-color: #0d1219;
+    color: #fff;
+=======
+body {
+    background-color:#0d1219;
+}
+
+#card-header{
+    background-color: #0d1219;
+    color: #fff;
+}
+
+#card-body{
+    background-color: #0d1219;
+    color: #fff;
+}
+
+#card-footer{
+    background-color: #0d1219;
+    color: #fff;
+>>>>>>> 5c33266cc14d120b93ca1590506c662732c9eae7
+}

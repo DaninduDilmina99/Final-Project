@@ -49,7 +49,14 @@
                               <div class="row">
                                 <div class="col-md-3 col-xs-3 col-sm-3">
                                   <a style="padding-top:0px;" class=" navbar-brand navBrandText text-uppercase font-weight-bold" href="index.html"><img class="set-logo" src="img/logo/Logo.png" alt="restorant" /></a>
+                                  <style>
+                                    .set-logo{
+                                      margin-top: 0px;
+                                      width: 120px;
+                                     height: 60px;
 
+                                    }
+                                  </style>
                                 </div>
                                 <div class="col-md-9 col-sm-9 col-xs-9">
                                   <!--                                                                <a href="index.html"><img class="img-responsive logo" src="img/logo/Logo.png" alt="restorant" /></a>-->
@@ -102,8 +109,9 @@
                     <div class="col-md-12 col-sm-12 col-xs-12 fadeInUp">
                         <div class="maintext text-center">
                             <span></span>
-                            <h2>Welcome To Cemre Bakery</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis leo vitae lacinia congue.</p>
+                            <h2>Bus Service Reviews</h2>
+                            <p>     "අපේක්ෂාවට අත්වැලක්" මඟින්  බොහෝදුර බැහැර සිට පැමිණෙන රෝගීන්ට සහනයක් වියහැක. බස් රථ ගමන් කරන නිවැරදි වේලාවන් දැනගත හැකිවා සේම බස් රථ වල ආසන වෙන් කරවා ගැනීම්ද කල්තියා සිදු කර ගත හැක. ඔවුන්ට තම නිවසට ළඟම ස්ථානයේ සිට අපේක්ෂා රෝහල වෙතටම ගමන් පහසුකම් සලසා දී ඇත. ඇතැම් බස් රථ වායු සමනය කර ඇති අතර ඇතැම් බස්‍ රථ වල රෝගීන්ට අවශ්‍ය පරිදි ශීතකරණ පවා ඇත. එම බස් රථ වල ආසන වෙන් කරවා ගැනීම මෙම වෙබ් අඩවිය මඟින් පහසුවෙන් සිදු කර ගත හැක. 
+                තවද පරිත්‍යාගශීලීන්ගෙන් හිසකෙස් හා රුධිරය දන්දීම සඳහා ලියාපදිංචි කර ඒවාද පිළිකා රෝගීන්ගේ අවශ්‍යතා පරිදි අපේක්ෂා රෝහලට ලබාදීමට කටයුතු කරයි.</p>
                             </div>
                     </div>
                 </div>
@@ -111,12 +119,12 @@
                     <div class="col-md-4 col-sm-4 col-xs-12">
                         <div class="row">
                             <div class="col-md-12 minHeightProp">
-                                <img class="imgback img-review " src="img/reviews/r1.jpeg">
+                                <img class="imgback img-review " src="sathsarani.png">
                             </div>
                             <div class="col-md-12">
                                 <div class="text-center">
-                                    <span>Serve You Since 1988</span>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis leo vitae lacinia congue.</p>
+                                    <span>Sathsarani</span>
+                                    <p>This  website very usefull for online booking bus tickets and donate to Apeksha hospital.</p>
                                     </div>
                             </div>
                         </div>
@@ -124,12 +132,12 @@
                     <div class="col-md-4 col-sm-4 col-xs-12">
                         <div class="row">
                             <div class="col-md-12 minHeightProp">
-                                <img class="imgback img-review" src="img/reviews/r1.jpeg">
+                                <img class="imgback img-review" src="ishan.png">
                             </div>
                             <div class="col-md-12">
                                 <div class="text-center">
-                                    <span>Serve You Since 1988</span>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis leo vitae lacinia congue.</p>
+                                    <span>Ishan</span>
+                                    <p>This is the fully trusted site.it has made easy to find  my bus shedule for Apeksha hospital.</p>
                                 </div>
                             </div>
                         </div>
@@ -137,12 +145,12 @@
                     <div class="col-md-4 col-sm-4 col-xs-12">
                         <div class="row">
                             <div class="col-md-12 minHeightProp">
-                                <img class="imgback img-review" src="img/reviews/r1.jpeg">
+                                <img class="imgback img-review" src="akshitha.png">
                             </div>
                             <div class="col-md-12">
                                 <div class="text-center">
-                                    <span>Serve You Since 1988</span>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sagittis leo vitae lacinia congue. </p>
+                                    <span>Akshitha</span>
+                                    <p>                  I don't normally write reviews but this site certainly deserves .It is easy to use and the donete payment methods are also simple. </p>
                                 </div>
                             </div>
                         </div>
@@ -154,7 +162,7 @@
         <section id="section6" class="contact">
             <div class="contact100-form-title container">
                 <h3>Keep In Touch</h3>
-                <h2>Send A Message</h2>
+                <h2>Send A Review</h2>
                     <form class="contact100-form validate-form">
 
 

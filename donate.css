@@ -1,0 +1,26 @@
+body {
+    background-image: url("donatio-ways.jpg");
+    background-color:#0d1219;
+}
+
+.center{
+    position:fixed;
+    bottom:20px;
+    left:20%;
+    width:60%;
+   
+}
+  
+.center .btn{
+    background-color:rgb(16, 176, 216);
+    width:100%;
+    color:rgb(7, 153, 250);
+    font-weight:bold;
+    border-radius: 64px;
+    padding: 10px 20px;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 16px;
+}
+

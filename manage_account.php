@@ -1,10 +1,22 @@
 <?php
 session_start();
 include('db_connect.php');
-	$qry = $conn->query("SELECT * FROM users where id = ".isset($_SESSION['login_id']))->fetch_array();
-	foreach($qry as $k => $val){
-		$meta[$k] =  $val;
+$result= $conn->query("SELECT * FROM users where  id = login_id asc");
+
+if($result){
+	while ($row = mysqli_fetch_array($result)) {
+		$qry = $conn->query("SELECT * FROM users where id = ".isset($_SESSION['login_id']))->fetch_array() ;
+		foreach($qry as $k => $val){
+			$meta[$k] =  $val;
+		} }
 	}
+	else{
+	echo "result is empty";
+	} 
+	
+
+	
+
 ?>
 <div class="container-fluid">
 	<form id="manage_user">

@@ -12,7 +12,7 @@ $database = "Donate";
 $conn = mysqli_connect($host, $username, $password, $database);
 
 if(!$conn){
-    die("Database Connection Fail" .mysqli_error($conn));
+    die("Database Connection Fail");
 }
 else{
     echo "Database Connection Success!!";

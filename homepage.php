@@ -770,7 +770,7 @@
     </section><!-- End Contact Section -->
 
   </main><!-- End #main -->
-
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.444011051176!2d79.91813091482291!3d6.837249621333098!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae2507546e99623%3A0x884f7e1e67a4d49b!2sApeksha%20Hospital%20Maharagama!5e0!3m2!1sen!2slk!4v1645283995617!5m2!1sen!2slk" width="1500" height="650" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="footer-top">

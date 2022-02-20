@@ -5,9 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <title>Donate</title>
+    <title>Blood Donor</title>
     <!-- Favicon-->
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="images/Logo.png" type="image/x-icon">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&subset=latin,cyrillic-ext" rel="stylesheet" type="text/css">
@@ -52,7 +52,17 @@
     <!-- #END# Page Loader -->
     <!-- Overlay For Sidebars -->
     <div class="overlay"></div>
- 
+    <!-- #END# Overlay For Sidebars -->
+    <!-- Search Bar -->
+    <div class="search-bar">
+        <div class="search-icon">
+            <i class="material-icons">search</i>
+        </div>
+        <input type="text" placeholder="START TYPING...">
+        <div class="close-search">
+            <i class="material-icons">close</i>
+        </div>
+    </div>
     <!-- #END# Search Bar -->
     <!-- Top Bar -->
     <nav class="navbar">
@@ -60,9 +70,27 @@
             <div class="navbar-header">
                 <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
                 <a href="javascript:void(0);" class="bars"></a>
-                <a class="navbar-brand" href="index.php"></a>
+                <a class="navbar-brand" href="homepage.php">අපේක්ෂාවට අත්වැලක්</a>
             </div>
-        
+            <div class="collapse navbar-collapse" id="navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <!-- Call Search -->
+
+                    <!-- #END# Call Search -->
+                    <!-- Notifications -->
+                    <li class="dropdown">
+  
+                        <div class="navbar-header">
+                <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
+                <a href="javascript:void(0);" class="bars"></a>
+                <a class="navbar-brand" href="http://localhost/Final-Project/homepage.php">Home</a>
+                <a class="navbar-brand" href="index.php">Donate</a>
+                <a class="navbar-brand" href="http://localhost/Final-Project/reviews.php">Review</a>
+                <a class="navbar-brand" href="http://localhost/Final-Project/contact.php">Contact</a>
+            </div>
+                    
+                </ul>
+            </div>
         </div>
     </nav>
     <!-- #Top Bar -->
@@ -72,8 +100,9 @@
             <!-- User Info -->
             <div class="user-info">
                 <div class="image">
-                    <img src="images/user.png" width="48" height="48" alt="User" />
+                    <img src="images/Logo.png" width="150" height="80" alt="User" />
                 </div>
+                
             </div>
             <!-- #User Info -->
             <!-- Menu -->
@@ -112,23 +141,23 @@
                     <li>
                         <a href="javascript:void(0);" class="menu-toggle">
                             <i class="material-icons">assignment</i>
-                            <span>Campaigns</span>
+                            <span>Campaign</span>
                         </a>
                         <ul class="ml-menu">
-                            <li>
-                                <a href="addcampaign.html">Create Campaign</a>
-                            </li>
-                            <li>
-                                <a href="editcampaign.php">Edit Campaign Details</a>
-                            </li>
-                            <li>
-                                <a href="viewcampaign.php">View Campaign</a>
-                            </li>
-                            <li>
-                                <a href="deletecampaign.php">Remove Campaign</a>
-                            </li>
-                          
-                        </ul>
+                                <li>
+                                    <a href="addcampaign.html">Create Campaign</a>
+                                </li>
+                                <li>
+                                    <a href="editcampaign.php">Edit Campaign Details</a>
+                                </li>
+                                <li>
+                                    <a href="viewcampaign.php">View Campaign</a>
+                                </li>
+                                <li>
+                                    <a href="deletecampaign.php">Remove Campaign</a>
+                                </li>
+                              
+                            </ul>
                     </li>
                   
                   
@@ -136,6 +165,9 @@
     
                 </ul>
             </div>
+        
+        </aside>
+        
         
     </section>
     <section class="content">
@@ -245,17 +277,6 @@ if(!$result){
 
     <!-- Demo Js -->
     <script src="js/demo.js"></script>
-    <script src="js copy/"></script>
-    <script src="js copy/jquery-easing/jquery.easing.min.js"></script>
-    <script src="js copy/bootstrap.min.js"></script>
-    <script src="js copy/parallax.min.js"></script>
-    <script src="js copy/ajax-mail.js"></script>
-    <script src="js copy/owl.carousel.min.js"></script>
-    <script src="js copy/jquery.nicescroll.min.js"></script>
-    <script src="js copy/main.js"></script>
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDyIMWhs-crjT0yhctbRjfJFq75FlEhSzE&callback=initMap">
-    </script>
 </body>
 
 </html>

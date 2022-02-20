@@ -78,7 +78,7 @@
                 </li>
               </ul>
             </li>
-              <li><a class="nav-link  " href="http://localhost/SimpleBloodDonorManagement_PHP/simpleblooddonor/index.php">Donate</a></a></li>
+              <li><a class="nav-link  " href="http://localhost/Final-Project/SimpleBloodDonorManagement_PHP/simpleblooddonor/">Donate</a></a></li>
             
               <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
             </ul>

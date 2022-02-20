@@ -5,26 +5,9 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-    <title>Add Donate</title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="author" content="Cemre Tellioğlu Tunçay">
-    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Righteous&display=swap&subset=latin-ext" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Poppins&display=swap" rel="stylesheet">
-    <!-- Place favicon.ico in the root directory -->
-  
-    <link rel="stylesheet" href="css /bootstrap.min.css">
-    <link rel="stylesheet" href="css /owl.carousel.min.css">
-    <link rel="stylesheet" href="css copy/font-awesome.min.css">
-
-    <link rel="stylesheet" href="css /animate.css">
-    <link rel="stylesheet" href="css /responsive.css">
-
-    <link rel="stylesheet" href="css/style.css">
-    <script src="js copy/vendor/modernizr-2.8.3.min.js"></script>
+    <title>Blood Donor</title>
     <!-- Favicon-->
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="images/Logo.png" type="image/x-icon">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,700&subset=latin,cyrillic-ext" rel="stylesheet" type="text/css">
@@ -69,79 +52,47 @@
     <!-- #END# Page Loader -->
     <!-- Overlay For Sidebars -->
     <div class="overlay"></div>
- 
+    <!-- #END# Overlay For Sidebars -->
+    <!-- Search Bar -->
+    <div class="search-bar">
+        <div class="search-icon">
+            <i class="material-icons">search</i>
+        </div>
+        <input type="text" placeholder="START TYPING...">
+        <div class="close-search">
+            <i class="material-icons">close</i>
+        </div>
+    </div>
     <!-- #END# Search Bar -->
     <!-- Top Bar -->
-    <header class="top">
-        <div class="fixedArea">
-          <div class="row">
-            <div class="col-md-12 col-sm-12 col-xs-12 noPadding">
-              <div class="content-wrapper one">
-                <!-- Main Menu Start -->
-                <!-- Navbar-->
-                <header class="header">
-                  <nav class="navbar navbar-default myNavBar" style="background-color: #333333">
-                    <div class="container">
-
-                      <!-- Brand and toggle get grouped for better mobile display -->
-                      <div class="navbar-header">
-                        <div class="row">
-                          <div class="col-md-9 col-sm-9 col-xs-9">
-                            <div class="row">
-                              <div class="col-md-3 col-xs-3 col-sm-3">
-                                <a style="padding-top:0px;" class=" navbar-brand navBrandText text-uppercase font-weight-bold" href="index.html"><img class="set-logo" src="images/Logo.png" alt="" /></a>
-                                <style>
-                                  .set-logo{
-                                    margin-top: 0px;
-                                    width: 120px;
-                                   height: 55px;
-
-                                  }
-                                </style>
-                              </div>
-                              <div class="col-md-9 col-sm-9 col-xs-9">
-                                <!--                                                                <a href="index.html"><img class="img-responsive logo" src="img/logo/Logo.png" alt="restorant" /></a>-->
-
-                              </div>
-                            </div>
-
-
-                          </div>
-                          <div class="col-md-3 col-sm-3 col-xs-3">
-                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                              <span class="sr-only">Toggle navigation</span>
-                              <span class="icon-bar"></span>
-                              <span class="icon-bar"></span>
-                              <span class="icon-bar"></span>
-                            </button>
-                          </div>
-                        </div>
-
-                      </div>
-
-                      <!-- Collect the nav links, forms, and other content for toggling -->
-                      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                        <ul class="nav navbar-nav navbar-right navBar">
-                        <li class="nav-item"><a href="http://localhost/Final-Project/homepage.php" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Home </a></li>
-                          <li class="nav-item"><a href="http://localhost/Final-Project/index.php?page=schedule" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Bus Shedule</a></li>
-                          <li class="nav-item"><a href="http://localhost/Final-Project/index.php?page=home" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Booking</a></li>
-                          <li class="nav-item"><a href="http://localhost/SimpleBloodDonorManagement_PHP/simpleblooddonor/index.php" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Donate</a></li>
-                          <li class="nav-item"><a href="http://localhost/Final-Project/reviews.php" class="active nav-link text-uppercase font-weight-bold js-scroll-trigger">Review</a></li>
-                         
-                          <li class="nav-item"><a href="http://localhost/Final-Project/contact.php" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Contact</a></li>
-
-
-                        </ul>
-                      </div>
-                    </div>
-                  </nav>
-                </header>
-                <!-- Main Menu End -->
-              </div>
+    <nav class="navbar">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
+                <a href="javascript:void(0);" class="bars"></a>
+                <a class="navbar-brand" href="homepage.php">අපේක්ෂාවට අත්වැලක්</a>
             </div>
-          </div>
+            <div class="collapse navbar-collapse" id="navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                    <!-- Call Search -->
+
+                    <!-- #END# Call Search -->
+                    <!-- Notifications -->
+                    <li class="dropdown">
+  
+                        <div class="navbar-header">
+                <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
+                <a href="javascript:void(0);" class="bars"></a>
+                <a class="navbar-brand" href="http://localhost/Final-Project/homepage.php">Home</a>
+                <a class="navbar-brand" href="index.php">Donate</a>
+                <a class="navbar-brand" href="http://localhost/Final-Project/reviews.php">Review</a>
+                <a class="navbar-brand" href="http://localhost/Final-Project/contact.php">Contact</a>
+            </div>
+                    
+                </ul>
+            </div>
         </div>
-      </header>
+    </nav>
     <!-- #Top Bar -->
     <section>
         <!-- Left Sidebar -->
@@ -149,8 +100,9 @@
             <!-- User Info -->
             <div class="user-info">
                 <div class="image">
-                    <img src="images/user.png" width="48" height="48" alt="User" />
+                    <img src="images/Logo.png" width="150" height="80" alt="User" />
                 </div>
+                
             </div>
             <!-- #User Info -->
             <!-- Menu -->
@@ -189,23 +141,23 @@
                     <li>
                         <a href="javascript:void(0);" class="menu-toggle">
                             <i class="material-icons">assignment</i>
-                            <span>Campaigns</span>
+                            <span>Campaign</span>
                         </a>
                         <ul class="ml-menu">
-                            <li>
-                                <a href="addcampaign.html">Create Campaign</a>
-                            </li>
-                            <li>
-                                <a href="editcampaign.php">Edit Campaign Details</a>
-                            </li>
-                            <li>
-                                <a href="viewcampaign.php">View Campaign</a>
-                            </li>
-                            <li>
-                                <a href="deletecampaign.php">Remove Campaign</a>
-                            </li>
-                          
-                        </ul>
+                                <li>
+                                    <a href="addcampaign.html">Create Campaign</a>
+                                </li>
+                                <li>
+                                    <a href="editcampaign.php">Edit Campaign Details</a>
+                                </li>
+                                <li>
+                                    <a href="viewcampaign.php">View Campaign</a>
+                                </li>
+                                <li>
+                                    <a href="deletecampaign.php">Remove Campaign</a>
+                                </li>
+                              
+                            </ul>
                     </li>
                   
                   
@@ -214,12 +166,15 @@
                 </ul>
             </div>
         
+        </aside>
+        
+        
     </section>
 
     <section class="content">
         <div class="container-fluid">
             <div class="block-header">
-                
+              
             </div>
 
             <!-- Widgets -->
@@ -228,7 +183,8 @@
             <!-- CPU Usage -->
             <!--  -->
             <!-- #END# CPU Usage -->
-            <?php
+
+ <?php
 
 include "conn.php";
 
@@ -238,13 +194,12 @@ $result=mysqli_query($conn,$qry);
 
 echo"<table border='2' id='donor'>
 <tr>
- <th>ID</th>
- <th>Name of Campaign</th>
- <th>Name of Organizer</th>
- <th>Campaign Date</th>
- <th>Locations</th>
- <th>Short Description</th>
-    <th>Operations</th>
+<th>ID</th>
+    <th>Name of Campaign</th>
+    <th>Name of Organizer</th>
+    <th>Campaign Date</th>
+    <th>Locations</th>
+    <th>Short Description</th>
 </tr>";
 
 while($row=mysqli_fetch_array($result)){
@@ -255,15 +210,11 @@ while($row=mysqli_fetch_array($result)){
   <td>".$row['date']."</td>
   <td>".$row['location']."</td>
   <td>".$row['description']."</td>
-  <td><a href='deletedcampaign.php?id=".$row['id']."'>DELETE</a></td>
 </tr>";
 }
 
 ?>
-        </div>
-        <!-- /.box-header -->
-        <!-- form start -->
-
+ 
                 <!-- Visitors -->
                
                 <!-- #END# Visitors -->
@@ -284,7 +235,8 @@ while($row=mysqli_fetch_array($result)){
             </div>
         </div>
     </section>
-    <style>
+
+      <style>
 #donor {
 font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 border-collapse: collapse;
@@ -311,6 +263,7 @@ background-color: #e7e7e7;
 color: black;
 }
 </style>
+
     <!-- Jquery Core Js -->
     <script src="plugins/jquery/jquery.min.js"></script>
 
@@ -352,17 +305,6 @@ color: black;
 
     <!-- Demo Js -->
     <script src="js/demo.js"></script>
-    <script src="js copy/"></script>
-    <script src="js copy/jquery-easing/jquery.easing.min.js"></script>
-    <script src="js copy/bootstrap.min.js"></script>
-    <script src="js copy/parallax.min.js"></script>
-    <script src="js copy/ajax-mail.js"></script>
-    <script src="js copy/owl.carousel.min.js"></script>
-    <script src="js copy/jquery.nicescroll.min.js"></script>
-    <script src="js copy/main.js"></script>
-    <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDyIMWhs-crjT0yhctbRjfJFq75FlEhSzE&callback=initMap">
-    </script>
 </body>
 
 </html>

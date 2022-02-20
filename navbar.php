@@ -34,7 +34,7 @@
                         <a href="./index.php?page=home">Booking</a>
                         </li>
                         <li class="nav-link" style="--i: 1.35s">
-                        <a href="Donate.php">Donate</a>
+                        <a href="http://localhost/Final-Project/SimpleBloodDonorManagement_PHP/simpleblooddonor/ ">Donate</a>
                         </li>
                         <li class="nav-link" style="--i: 1.6s">
                         <a href="http://localhost/Final-Project/reviews.php">Reviews</a>

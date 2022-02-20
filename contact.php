@@ -74,9 +74,8 @@
                                             <li class="nav-item"><a href="http://localhost/Final-Project/homepage.php" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Home </a></li>
                             <li class="nav-item"><a href="./index.php?page=schedule" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Bus Shedule</a></li>
                             <li class="nav-item"><a href="./index.php?page=home" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Booking</a></li>
-                            <li class="nav-item"><a href="http://localhost/SimpleBloodDonorManagement_PHP/simpleblooddonor/index.php" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Donate</a></li>
+                            <li class="nav-item"><a href="http://localhost/Final-Project/SimpleBloodDonorManagement_PHP/simpleblooddonor/index.php" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Donate</a></li>
                             <li class="nav-item"><a href="http://localhost/Final-Project/reviews.php" class="active nav-link text-uppercase font-weight-bold js-scroll-trigger">Review</a></li>
-             
                             <li class="nav-item"><a href="contact.php" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Contact</a></li>
 
 

@@ -342,13 +342,22 @@
                         </div>
                     </div>
                 </div>
-                <!-- #END# Task Info -->
-                <!-- Browser Usage -->
-              
-                <!-- #END# Browser Usage -->
+               
+            </div>
+            <div class="row clearfix">
+                <!-- Task Info -->
+                <div class="col-xs-12 col-sm-12 col-md-8 col-lg-8">
+                    <div class="card">
+                        <div class="header">
+                            <h2>Donation Form</h2>
+                           
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
+   
 
     <!-- Jquery Core Js -->
     <script src="plugins/jquery/jquery.min.js"></script>

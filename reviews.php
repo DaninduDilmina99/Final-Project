@@ -48,7 +48,7 @@
                             <div class="col-md-9 col-sm-9 col-xs-9">
                               <div class="row">
                                 <div class="col-md-3 col-xs-3 col-sm-3">
-                                  <a style="padding-top:0px;" class=" navbar-brand navBrandText text-uppercase font-weight-bold" href="index.html"><img class="set-logo" src="img/logo/Logo.png" alt="restorant" /></a>
+                                  <a style="padding-top:0px;" class=" navbar-brand navBrandText text-uppercase font-weight-bold" href="index.html"><img class="set-logo" src="img/Logo.png" alt="" /></a>
                                   <style>
                                     .set-logo{
                                       margin-top: 0px;
@@ -84,7 +84,7 @@
                           <li class="nav-item"><a href="http://localhost/Final-Project/homepage.php" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Home </a></li>
                             <li class="nav-item"><a href="./index.php?page=schedule" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Bus Shedule</a></li>
                             <li class="nav-item"><a href="./index.php?page=home" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Booking</a></li>
-                            <li class="nav-item"><a href="Donate.php" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Donate</a></li>
+                            <li class="nav-item"><a href="http://localhost/SimpleBloodDonorManagement_PHP/simpleblooddonor/index.php" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Donate</a></li>
                             <li class="nav-item"><a href="http://localhost/Final-Project/reviews.php" class="active nav-link text-uppercase font-weight-bold js-scroll-trigger">Review</a></li>
                            
                             <li class="nav-item"><a href="contact.php" class="nav-link text-uppercase font-weight-bold js-scroll-trigger">Contact</a></li>

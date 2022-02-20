@@ -78,7 +78,7 @@
                 </li>
               </ul>
             </li>
-              <li><a class="nav-link  " href="Donate.php">Donate</a></a></li>
+              <li><a class="nav-link  " href="http://localhost/SimpleBloodDonorManagement_PHP/simpleblooddonor/index.php">Donate</a></a></li>
             
               <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
             </ul>
@@ -232,7 +232,9 @@
               </div>
               <h2 class="title"><a href="#">Our Plan</a></h2>
               <p>
-                Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+              පිළිකා මාරයා බිලිගත් අපගේම අහිංසක මිනිසුන්ට අත්වැලක් වීම පිණිස මෙම "අපේක්ෂාවට අත්වැලක්" යන වෙබ් අඩවිය නිර්මාණය කරන ලදී. එමඟින් දුෂ්කර පළාත් වල ජීවත් වන පිළිකා රෝගීන්ගේ ගමන් පහසුව උදෙසා ‍රට පුරාම දියත් කරන ලද බස්‍ රථ සේවාවෙහි නිවැරදි සහ යාවත්කාලීන තොරතුරු ලබා දීමට මෙම වෙබ් අඩවිය හරහා අප සැලසුම් කර ඇත.
+             තවද, අසරණ වූ පිළිකා රෝගීන්ට අත්වැලක් වීමට කැමති පරිත්‍යාගශීලීන්ට මේ හරහා අවස්ථාවක් ලබා දීමට අප සැලසුම් කර ඇත.  ඒ කෙසේද යත්, තම රුධිරය , හිසකෙස් දන්දීමට කැමති වටිනා හදවත් ඇති මිනිසුන්ට ඒ සඳහා ලියාපදිංචි වීම සහ ඒ පිළිබඳ තොරතුරු අප වෙබ් අඩවිය මඟින් ලබාදීමටද සැලසුම් කර ඇත. 
+             අවසන් වශයෙන් ගත් කළ අපගේ සැලසුම නම්, පිළිකා රෝගයෙන් දිවි බේරා ගැනීමට අපේක්ෂාවෙන් යුතුව දෑස් දල්වා බලා සිටින අසරණ රෝගීන්ට අප අත්වැලක් ලබා දීමයි.
               </p>
             </div>
           </div>

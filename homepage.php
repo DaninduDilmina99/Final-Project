@@ -416,7 +416,7 @@
             <figure>
               <img src="heart1.jpeg" class="img-fluid" alt="">
               <a href="heart1.jpeg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Web 1"><i class="bi bi-plus"></i></a>
-              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+              <a href="https://www.littlehearts.lk/" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
             </figure>
 
             <div class="portfolio-info">
@@ -444,7 +444,7 @@
             <figure>
               <img src="heart9.jpeg" class="img-fluid" alt="">
               <a href="heart9.jpeg" class="link-preview portfolio-lightbox" data-gallery="portfolioGallery" title="Web 1"><i class="bi bi-plus"></i></a>
-              <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
+              <a href="https://www.littlehearts.lk/" class="link-details" title="More Details"><i class="bi bi-link"></i></a>
             </figure>
 
             <div class="portfolio-info">

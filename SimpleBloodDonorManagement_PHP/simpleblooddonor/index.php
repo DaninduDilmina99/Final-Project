@@ -78,9 +78,9 @@
 
                     <!-- #END# Call Search -->
                     <!-- Notifications -->
-                    <li class="dropdown">
+                    
   
-                        <div class="navbar-header">
+                <div class="navbar-header">
                 <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
                 <a href="javascript:void(0);" class="bars"></a>
                 <a class="navbar-brand" href="http://localhost/Final-Project/homepage.php">Home</a>
@@ -350,7 +350,9 @@
                     <div class="card">
                         <div class="header">
                             <h2>Donation Form</h2>
-                           
+                            <div class="table-responsive">
+                            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeFolUue8AFfPzpet2PMmGOK8q5LxZrHZMWWKCccPUGueIUNQ/viewform?embedded=true" width="640" height="2522" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+                            </div>
                         </div>
                     </div>
                 </div>

@@ -832,7 +832,7 @@
       </div>
       <div class="credits">
       
-        Designed by <a href="https://github.com/DaninduDilmina99/Final-Project">Green-Wave (Group-29)</a>
+        Designed by <a href="https://github.com/DaninduDilmina99/Final-Project">Green-Wave (Group-26)</a>
       </div>
     </div>
   </footer><!-- End Footer -->

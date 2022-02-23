@@ -6,7 +6,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   
   <title>අපේක්ෂාවට අත්වැලක්</title>
-  <link href="assets1/img/favicon.png" rel="icon">
+  <link href="images/Logo.png" rel="icon">
   <link href="assets1/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->

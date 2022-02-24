@@ -86,7 +86,7 @@
                 <a class="navbar-brand" href="http://localhost/Final-Project/homepage.php">Home</a>
                 <a class="navbar-brand" href="index.php">Donate</a>
                 <a class="navbar-brand" href="http://localhost/Final-Project/reviews.php">Review</a>
-                <a class="navbar-brand" href="http://localhost/Final-Project/contact.php">Contact</a>
+                <a class="navbar-brand" href="http://localhost/Final-Project/contactfile/Contact.php">Contact</a>
             </div>
                     
                 </ul>

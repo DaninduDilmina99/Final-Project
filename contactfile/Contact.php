@@ -41,14 +41,14 @@
                 <div class="nav-links">
                     <ul>
                         <li class="nav-link" style="--i: .4s">
-                        <a href="homepage.php">Home</a>
+                        <a href="http://localhost/Final-Project/homepage.php">Home</a>
                         </li>
                        
                         <li class="nav-link" style="--i: .85s">
-                        <a href="./index.php?page=schedule">BusSchedule</a>
+                        <a href="http://localhost/Final-Project/index.php?page=schedule">BusSchedule</a>
                         </li>
                         <li class="nav-link" style="--i: 1.1s">
-                        <a href="./index.php?page=home">Booking</a>
+                        <a href="http://localhost/Final-Project/index.php?page=home">Booking</a>
                         </li>
                         <li class="nav-link" style="--i: 1.35s">
                         <a href="http://localhost/Final-Project/SimpleBloodDonorManagement_PHP/simpleblooddonor/ ">Donate</a>
@@ -64,10 +64,10 @@
                                 <ul>
                                 <div class="drop-down nav-user"><a href="#"><?php echo isset($_SESSION['load_user']) ?> </a>
                                     <li class="dropdown-link">
-                                    <a href="./index.php?page=bus">Bus List</a>
+                                    <a href="http://localhost/Final-Project/index.php?page=bus">Bus List</a>
                                     </li>
                                     <li class="dropdown-link">
-                                    <a href="./index.php?page=location">Location List</a>
+                                    <a href="http://localhost/Final-Project/index.php?page=location">Location List</a>
                                     </li>
                                     <li class="dropdown-link">
                                      <a href="#">User details</a><i class="fas fa-caret-down"></i></a>
@@ -75,13 +75,13 @@
                                         <div class="dropdown second">
                                             <ul>
                                                 <li class="dropdown-link">
-                                                <a href="./index.php?page=user">Users</a><i class="fas fa-caret-down"></i></a>
+                                                <a href="http://localhost/Final-Project/index.php?page=user">Users</a><i class="fas fa-caret-down"></i></a>
                                                 </li>
                                                 <li class="dropdown-link">
                                                 <a href="javascript:void(0)" id="manage_account">Manage Account</a>
                                                 </li>
                                                 <li class="dropdown-link">
-                                                    <a href="./logout.php">Logout</a>
+                                                    <a href="http://localhost/Final-Project/logout.php">Logout</a>
                                                 </li>
                                                
                                                 <div class="arrow"></div>

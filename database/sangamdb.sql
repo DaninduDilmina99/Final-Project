@@ -1,20 +1,21 @@
 -- phpMyAdmin SQL Dump
--- version 4.2.11
--- http://www.phpmyadmin.net
+-- version 5.1.1
+-- https://www.phpmyadmin.net/
 --
--- Host: 127.0.0.1
--- Generation Time: Sep 04, 2018 at 12:57 PM
--- Server version: 5.6.21
--- PHP Version: 5.6.3
+-- Host: localhost
+-- Generation Time: Feb 24, 2022 at 06:15 AM
+-- Server version: 10.4.20-MariaDB
+-- PHP Version: 7.4.22
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+START TRANSACTION;
 SET time_zone = "+00:00";
 
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
-/*!40101 SET NAMES utf8 */;
+/*!40101 SET NAMES utf8mb4 */;
 
 --
 -- Database: `sangamdb`
@@ -26,23 +27,27 @@ SET time_zone = "+00:00";
 -- Table structure for table `blooddonor`
 --
 
-CREATE TABLE IF NOT EXISTS `blooddonor` (
-`id` int(11) NOT NULL,
+CREATE TABLE `blooddonor` (
+  `id` int(11) NOT NULL,
   `name` varchar(50) NOT NULL,
   `gender` varchar(20) NOT NULL,
   `dob` date NOT NULL,
   `weight` int(5) NOT NULL,
   `contact` int(10) NOT NULL,
   `bloodtype` varchar(3) NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
 -- Dumping data for table `blooddonor`
 --
 
 INSERT INTO `blooddonor` (`id`, `name`, `gender`, `dob`, `weight`, `contact`, `bloodtype`) VALUES
-(1, 'bibek g', 'm', '1999-05-02', 98, 2147483647, 'b+'),
-(4, 'asd', 'm', '2222-02-02', 22, 2147483647, 'b+');
+(5, 'Kavindu Lakshitha', 'male', '2001-08-28', 61, 773317433, 'O+'),
+(6, 'Danindu Dilmina', 'male', '1999-10-22', 60, 777488070, 'A+'),
+(7, 'Akila Thainda', 'male', '1999-12-09', 80, 703754122, 'O+'),
+(8, 'Akshitha Sriyanjith', 'male', '2000-01-05', 48, 713740291, 'O+'),
+(9, 'Isuru Rajapaksha', 'male', '1999-03-25', 58, 772299619, 'B+'),
+(10, 'Gishen', 'male', '2001-02-24', 75, 769144886, 'O+');
 
 -- --------------------------------------------------------
 
@@ -50,23 +55,21 @@ INSERT INTO `blooddonor` (`id`, `name`, `gender`, `dob`, `weight`, `contact`, `b
 -- Table structure for table `campaign`
 --
 
-CREATE TABLE IF NOT EXISTS `campaign` (
-`id` int(11) NOT NULL,
+CREATE TABLE `campaign` (
+  `id` int(11) NOT NULL,
   `campaignname` varchar(50) NOT NULL,
   `organizer` varchar(50) NOT NULL,
   `date` date NOT NULL,
   `location` varchar(50) NOT NULL,
   `description` varchar(100) NOT NULL
-) ENGINE=InnoDB AUTO_INCREMENT=9 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
 -- Dumping data for table `campaign`
 --
 
 INSERT INTO `campaign` (`id`, `campaignname`, `organizer`, `date`, `location`, `description`) VALUES
-(1, 'demo', 'demo', '2222-08-02', 'demo', 'demo demo demo'),
-(2, 'Donate Camp', 'Red Sky Org', '2018-02-02', 'central park', 'this is a demo text. this is a demo text. this is a demo text. this is a demo text. this is a demo t'),
-(8, 'lhh', 'asddsd', '5550-05-05', 'sad', 'asdasda');
+(9, 'Blood Donation Camp', 'Kavindu Lakshitha', '2022-03-26', 'Nsbm Green University ', 'Save a Life');
 
 --
 -- Indexes for dumped tables
@@ -76,13 +79,13 @@ INSERT INTO `campaign` (`id`, `campaignname`, `organizer`, `date`, `location`, `
 -- Indexes for table `blooddonor`
 --
 ALTER TABLE `blooddonor`
- ADD PRIMARY KEY (`id`);
+  ADD PRIMARY KEY (`id`);
 
 --
 -- Indexes for table `campaign`
 --
 ALTER TABLE `campaign`
- ADD PRIMARY KEY (`id`);
+  ADD PRIMARY KEY (`id`);
 
 --
 -- AUTO_INCREMENT for dumped tables
@@ -92,12 +95,15 @@ ALTER TABLE `campaign`
 -- AUTO_INCREMENT for table `blooddonor`
 --
 ALTER TABLE `blooddonor`
-MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=5;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=11;
+
 --
 -- AUTO_INCREMENT for table `campaign`
 --
 ALTER TABLE `campaign`
-MODIFY `id` int(11) NOT NULL AUTO_INCREMENT,AUTO_INCREMENT=9;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=10;
+COMMIT;
+
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

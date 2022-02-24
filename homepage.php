@@ -267,27 +267,27 @@
 
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="100">
             <div class="icon"><i class="bi bi-briefcase"></i></div>
-            <h4 class="title"><a href="">Good health and well-being</a></h4>
+            <h4 class="title"><a href="https://www.my.undp.org/content/malaysia/en/home/sustainable-development-goals/goal-3-good-health-and-well-being.html?utm_source=EN&utm_medium=GSR&utm_content=US_UNDP_PaidSearch_Brand_English&utm_campaign=CENTRAL&c_src=CENTRAL&c_src2=GSR&gclid=Cj0KCQiA09eQBhCxARIsAAYRiynKmNpAFZudKSZgbo-byjJHCTTW9iTox0mpav2TwKG_Q90HSvq52v4aAvEVEALw_wcB">Good health and well-being</a></h4>
             <p class="description">This is very important for the physical health as well as the mental health of the patients as they do not have to get on and off the buses as they can reserve seats on the buses before going to the hospital for their treatment.</p>
           </div>
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
             <div class="icon"><i class="bi bi-card-checklist"></i></div>
-            <h4 class="title"><a href="">Affordable and clean energy</a></h4>
+            <h4 class="title"><a href="https://www.my.undp.org/content/malaysia/en/home/sustainable-development-goals/goal-7-affordable-and-clean-energy.html?utm_source=EN&utm_medium=GSR&utm_content=US_UNDP_PaidSearch_Brand_English&utm_campaign=CENTRAL&c_src=CENTRAL&c_src2=GSR&gclid=Cj0KCQiA09eQBhCxARIsAAYRiynQt4Zx-dFTh78h__wqzHiM_CCDSGQA8jRuxJvEiDIj6rxHLU9qKWAaAhXqEALw_wcB">Affordable and clean energy</a></h4>
             <p class="description">The use of a single bus can alleviate some of the problem of the patient coming to the hospital from a distant area due to the high fuel consumption and pollution caused by private vehicles.</p>
           </div>
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
             <div class="icon"><i class="bi bi-bar-chart"></i></div>
-            <h4 class="title"><a href="">Industry, Innovation, and Infrastructure</a></h4>
+            <h4 class="title"><a href="https://www1.undp.org/content/seoul_policy_center/en/home/sustainable-development-goals/goal-9-industry-innovation-and-infrastructure.html">Industry, Innovation, and Infrastructure</a></h4>
             <p class="description">This bus service has already provided direct and indirect employment opportunities and service we are going to implement will provide some relief to those who are engaged in those jobs. In addition, a number of innovations and infrastructure are being built around it.</p>
           </div>
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="200">
             <div class="icon"><i class="bi bi-binoculars"></i></div>
-            <h4 class="title"><a href="">Sustainable cities and communities</a></h4>
+            <h4 class="title"><a href="https://www1.undp.org/content/seoul_policy_center/en/home/sustainable-development-goals/goal-11-sustainable-cities-and-communities.html">Sustainable cities and communities</a></h4>
             <p class="description">This service connects remote areas and the suburbs of Colombo to create a better environment for patients and others visiting the hospital and to reach safer destinations safely.</p>
           </div>
           <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="300">
             <div class="icon"><i class="bi bi-brightness-high"></i></div>
-            <h4 class="title"><a href="">Responsible consumption and production</a></h4>
+            <h4 class="title"><a href="https://www1.undp.org/content/brussels/en/home/sustainable-development-goals/goal-12-responsible-consumption-and-production.html">Responsible consumption and production</a></h4>
             <p class="description">For those who are directly employed created through this service assumes the responsibility of the user. It also assumes a self-responsibility to protect the clients who use this service as well as the properties. This will enable both parties to provide and received quality service.</p>
           </div>
           <!-- <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="400">

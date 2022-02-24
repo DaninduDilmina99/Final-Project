@@ -259,7 +259,8 @@
 
         <header class="section-header wow fadeInUp">
           <h3>Sustainability Goals</h3>
-          <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant vituperatoribus, ad pro quaestio laboramus. Ei ubique vivendum pro. At ius nisl accusam lorenta zanos paradigno tridexa panatarel.</p>
+          <p>The 2030 Agenda states that “sustainable transport systems, along with universal access to affordable, reliable, sustainable and modern energy services, quality and resilient infrastructure, and other policies that increase productive capacities, would build strong economic foundations for all countries”. The text includes five targets that are directly related to the transport sector  related to the transport sector.
+            <br> Transport contributes directly to five targets on road safety; energy efficiency; sustainable infrastructure, urban access, and fossil fuel subsidies emphasize that sustainable transport is not needed solely for its own sake, but rather is essential to facilitate the achievement of a wide variety of SDGs:</p>
         </header>
 
         <div class="row">
